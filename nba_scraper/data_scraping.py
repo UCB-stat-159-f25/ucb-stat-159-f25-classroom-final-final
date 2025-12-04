@@ -48,10 +48,14 @@ def scrape_table(url: str, table_id: str):
         if table:
             break
 
-    # if no table is found in comments, try searching directly in the body of the page
+    # if no table is found in comments, search directly in the body of the page
     if not table:
         table = soup.find('table', {'id': table_id})
 
+    if not table:
+        print(f"Table '{table_id}' not found")
+        return None
+        
     with warnings.catch_warnings():
         warnings.simplefilter('ignore', FutureWarning)
         # converting HTML table into pandas data frame
@@ -62,7 +66,6 @@ def scrape_table(url: str, table_id: str):
         df.reset_index(drop=True, inplace=True)
         return df
 
-# Function to scrape and merge per-game and advanced stats for a given NBA season
 def scrape_and_merge_stats(season: int, save_dir: str = 'nba_merged_stats'):
     """
     Scrape both per-game and advanced statistics for a given NBA season and merge them.
@@ -84,7 +87,8 @@ def scrape_and_merge_stats(season: int, save_dir: str = 'nba_merged_stats'):
         The function saves a CSV file to disk but does not return a value directly.
         Prints status messages about the scraping and saving process.
     """
-    os.makedirs(save_dir, exist_ok=True)  # Create the directory if it doesn't exist
+    # create the directory if doesn't exist
+    os.makedirs(save_dir, exist_ok=True)  
 
     # URLs for per-game and advanced statistics
     per_game_url = f'https://www.basketball-reference.com/leagues/NBA_{season}_per_game.html'
@@ -110,7 +114,6 @@ def scrape_and_merge_stats(season: int, save_dir: str = 'nba_merged_stats'):
     merged_df.to_csv(f"{save_dir}/nba_merged_{season}.csv", index=False)
     print(f"Merged stats saved for {season}: nba_merged_{season}.csv")
 
-# Function to scrape player salaries data from a given URL and table ID
 def scrape_salaries(url: str, table_id: str = "player-contracts"):
     """
     Scrape NBA player salary data from a webpage and clean the resulting DataFrame.
@@ -139,11 +142,11 @@ def scrape_salaries(url: str, table_id: str = "player-contracts"):
     headers = {'User-Agent': 'Mozilla/5.0'}
     response = requests.get(url, headers=headers)
     
-    if not response.ok:  # check status request
+    if not response.ok:
         print(f"Failed to fetch URL: {url}")
         return None
     
-    # Parse the HTML content
+    # parse HTML content
     soup = BeautifulSoup(response.content, 'lxml') 
 
     table = None
@@ -154,17 +157,21 @@ def scrape_salaries(url: str, table_id: str = "player-contracts"):
         if table:
             break
 
-    # if no table is found in comments, try searching directly in the body of the page
+    # if no table is found in comments, search directly in the body of the page
     if not table:
         table = soup.find('table', {'id': table_id})
 
+    if not table:
+        print(f"Table '{table_id}' not found")
+        return None
+        
     with warnings.catch_warnings():
         warnings.simplefilter('ignore', FutureWarning)
         # reading table into a data frame
         df = pd.read_html(StringIO(str(table)), skiprows=0)[0]
         # filtering rows where the 'Rk' column has the value 'Rk' (header rows)
         df = df[(df.iloc[:, 0] != 'Rk') & (df.iloc[:, 0].notna())]
-        # dropping the level-0 column if it's a MultiIndex object
+        # dropping the level 0 column if it's a MultiIndex object
         df.columns = df.columns.droplevel(0) if isinstance(df.columns, pd.MultiIndex) else df.columns
         df.reset_index(drop=True, inplace=True)
         
