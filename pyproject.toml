@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools >= 70", "numpy >= 2.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nba_scraper"
+authors = [
+  { name="Brian Fernando", email="bmfernan@berkeley.edu" },
+]
+description = "A Python library for scraping data from Basketball Reference."
+# readme = "README.md"
+
+requires-python = ">=3.9"
+dependencies = [
+    "requests>=2.32",
+    "numpy>=2.0",
+    "h5py>=3.7",
+    "pandas>=2.3",
+    "ipython>=8.2",
+    "ipykernel>=5.5",
+    "decorator>=5.1",
+    "beautifulsoup4>=4.13"
+]
+
+license = "BSD-3-Clause"
+license-files = ["LICEN[CS]E*"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+
+keywords = ["nba", "scraper"]
+dynamic = ["version"]
+
+[project.urls]
+Homepage = "https://github.com/UCB-stat-159-f25/final-group12"
+Issues = "https://github.com/UCB-stat-159-f25/final-group12/issues"
+
+[tool.setuptools]
+packages = ["nba_scraper"]
+
+[tool.setuptools.dynamic]
+version = {attr = "nba_scraper.__version__"}
