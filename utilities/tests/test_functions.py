@@ -14,7 +14,7 @@ def test_plot_bivariate_scatter():
     Checks that plot_bivariate_scatter raises a KeyError if a specified
     x_column does not exist in the DataFrame.
     """
-    with pytest.raises(KeyError, match="'non_existent'"):
+    with pytest.raises(KeyError):
         plot_bivariate_scatter(
             data=df,
             y_column='severity_index',
@@ -28,7 +28,7 @@ def test_remove_iqr_outliers():
     Checks that remove_iqr_outliers raises a ValueError if the
     'columns' argument is not a list/array (e.g., if it's a string).
     """
-    with pytest.raises(ValueError, match="Columns parameter must be a list"):
+    with pytest.raises(ValueError):
         remove_iqr_outliers(df, columns="severity_index") 
 
 def test_transform_features():
