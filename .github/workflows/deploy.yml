@@ -2,7 +2,7 @@ name: MyST GitHub Pages Deploy
 
 on:
   push:
-    branches: [main]
+    branches: [main, woojin]
   workflow_dispatch:
 
 env:
