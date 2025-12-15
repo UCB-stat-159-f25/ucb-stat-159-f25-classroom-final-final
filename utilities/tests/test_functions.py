@@ -25,10 +25,10 @@ def test_plot_bivariate_scatter():
 
 def test_remove_iqr_outliers():
     """
-    Checks that remove_iqr_outliers raises a ValueError if the
+    Checks that remove_iqr_outliers raises a KeyError if the
     'columns' argument is not a list/array (e.g., if it's a string).
     """
-    with pytest.raises(ValueError):
+    with pytest.raises(KeyError):
         remove_iqr_outliers(df, columns="severity_index") 
 
 def test_transform_features():
@@ -39,7 +39,6 @@ def test_transform_features():
     bad_input = [1, 2, 3]
     with pytest.raises(TypeError):
         transform_features(bad_input)
-
 
 
 
