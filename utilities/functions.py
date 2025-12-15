@@ -13,8 +13,7 @@ def plot_bivariate_scatter(
     """
     Creates bivariate scatter plots with a common dependent variable.
 
-    Parameters
-    ----------
+    Inputs
     data : pandas.DataFrame
         Input dataset.
     y_column : str
@@ -29,14 +28,8 @@ def plot_bivariate_scatter(
         Number of subplot rows.
     n_cols : int, optional
         Number of subplot columns.
-    figsize : tuple, optional
-        Figure size.
-    color : str, optional
-        Scatter plot color.
-    alpha : float, optional
-        Point transparency.
-    point_size : int, optional
-        Marker size.
+	Outputs : matplotlib object
+	A matplotlib figure plotting all combinations of the common dependent variable and independent variables
     """
 
     # Sample data
@@ -81,12 +74,20 @@ def plot_bivariate_scatter(
     )
 
     plt.tight_layout()
-    plt.show()
 
 def remove_iqr_outliers(df, columns, k=1.5):
     """
     Removes rows that contain outliers in any of the specified columns
     using the k * IQR rule.
+	Inputs
+    df : pandas.DataFrame
+        Input dataset.
+	columns : list
+		the columns you want to check and filter outliers out by
+	k : float
+		how far away from the IQR a datapoint has to be to get filtered
+	Outputs : pandas.DataFrame
+	A cleaned dataframe with outliers filtered out
     """
     mask = pd.Series(True, index=df.index)
 
@@ -104,6 +105,17 @@ def remove_iqr_outliers(df, columns, k=1.5):
 
 
 def transform_features(df):
+	"""
+	
+	Applies Log transformations to features and filters out outliers 
+
+	Inputs:
+	df : pandas.DataFrame
+		input dataset
+	Outputs: pandas.DataFrame
+	A processed dataframe ready to be used in MLR
+	"""
+	
 	df['severity_index'] = df['severity_index']  # no transform
 
 	df['casualties'] = np.log1p(df['casualties'])
