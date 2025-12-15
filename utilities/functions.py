@@ -99,7 +99,7 @@ def remove_iqr_outliers(df, columns, k=1.5):
         lower = q1 - k * iqr
         upper = q3 + k * iqr
 
-        mask = df[col].between(lower, upper)
+        mask &= df[col].between(lower, upper)
 
     return df[mask]
 
