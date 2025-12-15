@@ -1,0 +1,7 @@
+# MyST build outputs
+_build
+
+# allow required PDFs
+!pdf_builds/
+pdf_builds/*
+!pdf_builds/*.pdf
