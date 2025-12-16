@@ -18,5 +18,37 @@ Our data was sourced from this [online kaggle dataset](https://www.kaggle.com/da
 
 Here is a link to our Project Website: [https://ucb-stat-159-f25.github.io/final-group25/](https://ucb-stat-159-f25.github.io/final-group25/)
 
+## Repository Structure
+
+Our repository follows this structure:
+
+* `data/`: Contains the csv file that our project uses to load in the data
+* `figures/`: Contains generated plots and other figures
+* `utilities/`: Module containing the functions that were used during this project. This module also includes tests that you can run in the terminal
+* `main.ipynb`: Our main commentary notebook, detailing the analysis at a high level. This notebook goes over some of the motivations, processes, and conclusions during our analysis.
+* `Predicting recovery days.ipynb`: Notebook containing code required to process and visualize data for later use in Multiple Linear Regression, in addition to actually constructing our model step by step.
+* `environment.yml`: File containing required packages for creating and using the environment
+* `Makefile`: Makefile to run all notebuilds and create the environment.
+* `exploratory_data_analysis.ipynb`: Conducts some exploratory data analysis of the dataset in addition to hypothesis testing
+
+## Testing and creating the environment
+
+You can run tests by running the following command in the terminal after having initialized the environment:
+
+	pytest utilities
+
+You can create the environment by just running:
+
+	make env
+
+You can also clean the repository by running:
+
+	make clean
+
+
+
+
+
+
 
 
