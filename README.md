@@ -41,7 +41,7 @@ You can create the environment by just running:
 
 	make env
 
-Then create the environment by running:
+Then activate the environment by running:
 
 	conda activate final-group25
 
