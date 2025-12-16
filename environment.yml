@@ -1,0 +1,33 @@
+name: final-group25
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+
+  # Visualizations
+  - matplotlib
+  - seaborn
+
+  # Notebook
+  - jupyterlab
+  - nbformat
+  - nbclient
+  - nbconvert
+  - ipykernel
+
+  # Testing
+  - pytest
+
+  # Reproducibility
+  - pyyaml
+  - tqdm
+
+  # MyST
+  - mystmd
