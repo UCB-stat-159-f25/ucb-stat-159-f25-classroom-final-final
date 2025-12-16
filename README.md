@@ -41,9 +41,19 @@ You can create the environment by just running:
 
 	make env
 
+Then create the environment by running:
+
+	conda activate final-group25
+
+Finally, install the ipython kernel by running:
+
+	python -m ipykernel install --user --name final-group25 --display-name "IPython - final-group25" 
+
 You can also clean the repository by running:
 
 	make clean
+
+
 
 
 
