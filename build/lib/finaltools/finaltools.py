@@ -12,6 +12,9 @@ import plotly.express as px
 import ipywidgets as widgets
 from IPython.display import display
 import random
+from sklearn.preprocessing import StandardScaler
+import pingouin as pg
+
 
 ### HELPER FUNCTIONS ###
 
@@ -114,9 +117,10 @@ def update_correlation(selected_columns, data, all_columns, default_n=10):
         
 def interactive_correlation(char_score_data, col_slice=slice(3, 465), default_n=10):
     '''
-    Given the dataframe, columns to slice from and default n creates a widget which is our correlation heatmap.
+    Given the dataframe, columns to slice from and default n creates a widget which is a correlation heatmap.
     '''
     columns = char_score_data.iloc[:, col_slice].columns.tolist()
+    print(len(columns))
 
     column_selector = widgets.SelectMultiple(
         options=columns,

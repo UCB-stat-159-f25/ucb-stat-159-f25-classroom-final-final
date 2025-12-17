@@ -12,6 +12,8 @@ import plotly.express as px
 import ipywidgets as widgets
 from IPython.display import display
 import random
+from sklearn.preprocessing import StandardScaler
+
 
 ### HELPER FUNCTIONS ###
 
