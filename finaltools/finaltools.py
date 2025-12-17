@@ -90,29 +90,50 @@ def explore_bap_averages(data, groups=False):
         .reset_index(drop=True)
     )
 
-def update_correlation(selected_columns):
+def update_correlation(selected_columns, data, all_columns, default_n=10):
     '''
-    Function used to update the heatmap displayed.
+    Given selected columns, dataframe, all columns and n, it is a function to update the heatmap.
     '''
-    if len(selected_columns) == 0:
+    if not selected_columns:
         return
-    
-    subset = char_score_data[list(selected_columns)]
-    corr = subset.corr().round(2)  # round to hundredth for better readability
-    
+
+    subset = data[list(selected_columns)]
+    corr = subset.corr().round(2)
     fig = px.imshow(
         corr,
-        text_auto=True,                  # show correlation values
-        color_continuous_scale='RdBu',   # diverging red–blue
-        zmin=-1, zmax=1,                 # scale for correlations
+        text_auto=True,
+        color_continuous_scale="RdBu",
+        zmin=-1, zmax=1,
         title="Correlation Matrix of Selected BAPs"
     )
     fig.update_layout(width=700, height=700)
     fig.show()
-    
-    # save the default map with 10 columns
-    if selected_columns == tuple(columns[:10]):
+
+    if tuple(selected_columns) == tuple(all_columns[:default_n]):
         fig.write_html("visualizations/default_correlation_map.html")
+        
+def interactive_correlation(char_score_data, col_slice=slice(3, 465), default_n=10):
+    '''
+    Given the dataframe, columns to slice from and default n creates a widget which is a correlation heatmap.
+    '''
+    columns = char_score_data.iloc[:, col_slice].columns.tolist()
+    print(len(columns))
+
+    column_selector = widgets.SelectMultiple(
+        options=columns,
+        value=tuple(columns[:default_n]),
+        description="Traits",
+        disabled=False
+    )
+
+    widgets.interact(
+        update_correlation,
+        selected_columns = column_selector,
+        data = widgets.fixed(char_score_data),
+        all_columns = widgets.fixed(columns),
+        save_default_to = widgets.fixed("visualizations/default_correlation_map.html"),
+        default_n = widgets.fixed(default_n),
+    )
 
 ## --[[NOTEBOOK 3: Identify Archtypes]]-- ##
 
