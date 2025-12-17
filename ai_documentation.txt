@@ -1,0 +1,7 @@
+Joseph: Did not use ai for this project.
+
+Woojin: Did not use ai for this project.
+
+Benjamin: Used ChatGPTto help create the remove_outliers function towards the end. Also used ChatGPT to help resolve failing tests due to the ModuleNotFound error, I ended up adding an _init_.py file in the testing module itself too.
+
+Justin: Used ChatGPT 5.2 to help pinpoint problems that occurred while creating a PDF output of the analysis notebook; discussed with ChatGPT on which scale (raw data or logarithmic) to use, and how to order the plots so that the narrative would logically flow most smoothly.
