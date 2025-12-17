@@ -29,7 +29,7 @@ Our repository follows this structure:
 * `Predicting recovery days.ipynb`: Notebook containing code required to process and visualize data for later use in Multiple Linear Regression, in addition to actually constructing our model step by step.
 * `environment.yml`: File containing required packages for creating and using the environment
 * `Makefile`: Makefile to run all notebuilds and create the environment.
-* `exploratory_data_analysis.ipynb`: Conducts some exploratory data analysis of the dataset in addition to hypothesis testing
+* `exploratory_data_analysis.ipynb`: Conducts some exploratory data analysis of the dataset
 
 ## Testing and creating the environment
 
