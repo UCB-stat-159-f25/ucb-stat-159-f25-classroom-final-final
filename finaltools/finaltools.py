@@ -60,6 +60,7 @@ def most_right(data, column_name):
     most_right = data.nlargest(n=10, columns=[column_name])
     most_right = most_right[["character", "source", column_name]]
     print(most_right)
+    return most_right.copy()
 
 def most_left(data, column_name):
     '''
@@ -68,6 +69,7 @@ def most_left(data, column_name):
     most_left = data.nsmallest(n=10, columns=[column_name])
     most_left = most_left[["character", "source", column_name]]
     print(most_left)
+    return most_left.copy()
         
 def explore_bap_averages(data, groups=False):
     '''
