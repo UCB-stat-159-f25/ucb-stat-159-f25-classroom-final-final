@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools >= 70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "finaltools"
+authors = [
+  { name="stat159-fall-2025-final-group03", email="harishankarr@berkeley.edu" },
+]
+description = "A python support library handling all basic functions that the notebooks depend on for better readability. Includes tests for said functions."
+readme = "README.md"
+
+requires-python = ">=3.10"
+dependencies = [
+    "tqdm",
+]
+
+license = "BSD-3-Clause"
+license-files = ["LICEN[CS]E*"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+
+keywords = ["tools", "final","notebooks"]
+dynamic = ["version"]
+
+[project.urls]
+Homepage = "https://github.com/HarishanakarRU/finaltools"
+Issues = "https://github.com/HarishanakarRU/finaltools/issues"
+
+[tool.setuptools]
+packages = ["finaltools"]
+
+[tool.setuptools.dynamic]
+version = {attr = "finaltools.__version__"}
