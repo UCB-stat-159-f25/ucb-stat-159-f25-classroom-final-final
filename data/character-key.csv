@@ -1,0 +1,2126 @@
+id,name,source
+HML/1,Prince Hamlet,Hamlet
+HML/2,Queen Gertrude,Hamlet
+HML/3,King Claudius,Hamlet
+HML/4,Polonius,Hamlet
+HML/5,Ophelia,Hamlet
+HML/6,Horatio,Hamlet
+MONH/1,Tokio,Money Heist
+MONH/2,El Profesor,Money Heist
+MONH/3,Raquel Murillo,Money Heist
+MONH/4,Berlin,Money Heist
+MONH/5,Rio,Money Heist
+MONH/6,Denver,Money Heist
+MONH/7,Monica Gaztambide,Money Heist
+MONH/8,Arturo Roman,Money Heist
+MONH/9,Helsinki,Money Heist
+MONH/10,Nairobi,Money Heist
+LASTU/1,Joel Miller,The Last of Us
+LASTU/2,Ellie Williams,The Last of Us
+TINC/1,Bob Parr,The Incredibles
+TINC/2,Helen Parr,The Incredibles
+TINC/3,Violet Parr,The Incredibles
+TINC/4,Dashiell Parr,The Incredibles
+TINC/5,Buddy Pine,The Incredibles
+BWF/1,Beowulf,Beowulf
+SPF/1,General Mark R. Naird,Space Force
+SPF/2,Dr. Adrian Mallory,Space Force
+SPF/3,F. Tony Scarapiducci,Space Force
+SPF/4,Erin Naird,Space Force
+SPF/5,Captain Angela Ali,Space Force
+SPF/6,Dr. Chan Kaifang,Space Force
+ONED/1,Dexter Mayhew,One Day
+ONED/2,Emma Morley,One Day
+GP/1,Eleanor Shellstrop,The Good Place
+GP/2,Chidi Anagonye,The Good Place
+GP/3,Tahani Al-Jamil,The Good Place
+GP/4,Janet,The Good Place
+GP/5,Jason Mendoza,The Good Place
+GP/6,Michael,The Good Place
+GG/1,Jay Gatsby,The Great Gatsby
+GG/2,Nick Carraway,The Great Gatsby
+GG/3,Daisy Buchanan,The Great Gatsby
+GG/4,Tom Buchanan,The Great Gatsby
+GG/5,Myrtle Wilson,The Great Gatsby
+GG/6,Jordan Baker,The Great Gatsby
+GF/1,Vito Corleone,The Godfather
+GF/2,Michael Corleone,The Godfather
+GF/3,Sonny Corleone,The Godfather
+GF/4,Peter Clemenza,The Godfather
+GF/5,Tom Hagen,The Godfather
+GF/6,Emilio Barzini,The Godfather
+GB/1,Peter Venkman,Ghostbusters
+GB/2,Ray Stantz,Ghostbusters
+GB/3,Egon Spengler,Ghostbusters
+GB/4,Dana Barrett,Ghostbusters
+GB/5,Louis Tully,Ghostbusters
+GA/1,Meredith Grey,Grey's Anatomy
+GA/2,Cristina Yang,Grey's Anatomy
+GA/3,Izzie Stevens,Grey's Anatomy
+GA/4,Alex Karev,Grey's Anatomy
+GA/5,George O'Malley,Grey's Anatomy
+GA/6,Miranda Bailey,Grey's Anatomy
+GA/7,Richard Webber,Grey's Anatomy
+GA/8,Preston Burke,Grey's Anatomy
+GA/9,Derek Shepherd,Grey's Anatomy
+GA/10,Addison Montgomery,Grey's Anatomy
+GO/1,Chris Washington,Get Out
+GO/2,Rose Armitage,Get Out
+GO/3,Dean Armitage,Get Out
+GO/4,Jeremy Armitage,Get Out
+GO/5,Missy Armitage,Get Out
+GO/6,Rod Williams,Get Out
+SWLJ/1,Kylo Ren,Star Wars: The Last Jedi
+SWLJ/2,Rey,Star Wars: The Last Jedi
+SWLJ/3,Finn,Star Wars: The Last Jedi
+SWLJ/4,Poe Dameron,Star Wars: The Last Jedi
+SWLJ/5,Rose Tico,Star Wars: The Last Jedi
+SWLJ/6,General Hux,Star Wars: The Last Jedi
+AHF/1,Huckleberry Finn,Adventures of Huckleberry Finn
+AHF/2,Jim,Adventures of Huckleberry Finn
+AHK/1,Ahsoka Tano,Ahsoka
+AHK/2,Huyang,Ahsoka
+AHK/3,Sabine Wren,Ahsoka
+AHK/4,Hera Syndulla,Ahsoka
+AHK/5,Baylan Skoll,Ahsoka
+AHK/6,Shin Hati,Ahsoka
+T7S/1,Eric Forman,That 70's Show
+T7S/2,Jackie Burkhart,That 70's Show
+T7S/3,Michael Kelso,That 70's Show
+T7S/4,Steven Hyde,That 70's Show
+T7S/5,Donna Pinciotti,That 70's Show
+T7S/6,Fez,That 70's Show
+T7S/7,Kitty Forman,That 70's Show
+T7S/8,Red Forman,That 70's Show
+T7S/9,Midge Pinciotti,That 70's Show
+T7S/10,Bob Pinciotti,That 70's Show
+AHX/1,Danny Vinyard,American History X
+AHX/2,Derek Vinyard,American History X
+AHX/3,Dr. Bob Sweeney,American History X
+MAL/1,Maleficent,Maleficent
+TSL/1,Clarice Starling,The Silence of the Lambs
+TSL/2,Dr. Hannibal Lecter,The Silence of the Lambs
+TSL/3,Jack Crawford,The Silence of the Lambs
+SW/1,Luke Skywalker,Star Wars: Episode IV - A New Hope
+SW/2,Princess Leia,Star Wars: Episode IV - A New Hope
+SW/3,Han Solo,Star Wars: Episode IV - A New Hope
+SW/4,Darth Vader,Star Wars: Episode IV - A New Hope
+SW/5,Obi-Wan Kenobi,Star Wars: Episode IV - A New Hope
+SW/6,C-3PO,Star Wars: Episode IV - A New Hope
+ALA/1,Aang,Avatar: The Last Airbender
+ALA/2,Zuko,Avatar: The Last Airbender
+ALA/3,Katara,Avatar: The Last Airbender
+ALA/4,Toph Beifong,Avatar: The Last Airbender
+ALA/5,Sokka,Avatar: The Last Airbender
+ALA/6,Azula,Avatar: The Last Airbender
+ALA/7,Iroh,Avatar: The Last Airbender
+ALA/8,Firelord Ozai,Avatar: The Last Airbender
+ALA/9,Ty Lee,Avatar: The Last Airbender
+ALA/10,Hakoda,Avatar: The Last Airbender
+M8/1,Jimmy 'B-Rabbit' Smith Jr.,8 Mile
+SWRS/1,Obi-Wan Kenobi,Star Wars: Revenge of the Sith
+SWRS/2,Padme Amidala,Star Wars: Revenge of the Sith
+SWRS/3,Anakin Skywalker,Star Wars: Revenge of the Sith
+SWRS/4,Palpatine,Star Wars: Revenge of the Sith
+SWRS/5,Mace Windu,Star Wars: Revenge of the Sith
+SWRS/6,Yoda,Star Wars: Revenge of the Sith
+SK/1,Shrek,Shrek
+SK/2,Donkey,Shrek
+SK/3,Princess Fiona,Shrek
+TKAM/1,Atticus Finch,To Kill a Mockingbird
+DS9/1,Jadzia Dax,Star Trek: Deep Space Nine
+DS9/2,Odo,Star Trek: Deep Space Nine
+DS9/3,Worf,Star Trek: Deep Space Nine
+DS9/4,Nog,Star Trek: Deep Space Nine
+DS9/5,Quark,Star Trek: Deep Space Nine
+DS9/6,Benjamin Sisko,Star Trek: Deep Space Nine
+DS9/7,Elim Garak,Star Trek: Deep Space Nine
+DS9/8,Kira Nerys,Star Trek: Deep Space Nine
+DS9/9,Julian Bashir,Star Trek: Deep Space Nine
+DS9/10,Dukat,Star Trek: Deep Space Nine
+DS9/11,Rom,Star Trek: Deep Space Nine
+DS9/12,Miles O'Brien,Star Trek: Deep Space Nine
+DS9/13,Jake Sisko,Star Trek: Deep Space Nine
+DS9/14,Winn Adami,Star Trek: Deep Space Nine
+DS9/15,Kasidy Yates,Star Trek: Deep Space Nine
+TANG/1,Rapunzel,Tangled
+TANG/2,Flynn Rider,Tangled
+HUS/1,Destiny,Hustlers
+HUS/2,Ramona Vega,Hustlers
+HUS/3,Elizabeth,Hustlers
+TTC/1,Sydney Carton,A Tale of Two Cities
+TTC/2,Lucie Manette,A Tale of Two Cities
+TTC/3,Charles Darnay,A Tale of Two Cities
+ZL/1,Tallahassee,Zombieland
+ZL/2,Columbus,Zombieland
+ZL/3,Wichita,Zombieland
+AHS/1,Vivien Harmon,American Horror Story: Season 1
+AHS/2,Dr. Ben Harmon,American Horror Story: Season 1
+AHS/3,Tate Langdon,American Horror Story: Season 1
+AHS/4,Violet Harmon,American Horror Story: Season 1
+AHS/5,Larry Harvey,American Horror Story: Season 1
+AHS/6,Constance Langdon,American Horror Story: Season 1
+SL/1,Sherlock Holmes,Sherlock
+SL/2,Dr. John Watson,Sherlock
+SL/3,D.I. Greg Lestrade,Sherlock
+SL/4,Mrs. Hudson,Sherlock
+SL/5,Mycroft Holmes,Sherlock
+SL/6,Molly Hooper,Sherlock
+BLL/1,John Rayburn,Bloodline
+BLL/2,Meg Rayburn,Bloodline
+BLL/3,Kevin Rayburn,Bloodline
+BLL/4,Diana Rayburn,Bloodline
+BLL/5,Eric O'Bannon,Bloodline
+BLL/6,Sally Rayburn,Bloodline
+GRB/1,Tony Lip,Green Book
+GRB/2,Don Shirley,Green Book
+BLB/1,Danny Reagan,Blue Bloods
+BLB/2,Erin Reagan,Blue Bloods
+BLB/3,Jamie Reagan,Blue Bloods
+BLB/4,Henry Reagan,Blue Bloods
+BLB/5,Frank Reagan,Blue Bloods
+BLB/6,Abigail Baker,Blue Bloods
+MD/1,Betty Elms,Mulholland Drive
+MD/2,Rita,Mulholland Drive
+MG/1,Cady Heron,Mean Girls
+MG/2,Regina George,Mean Girls
+MG/3,Gretchen Wieners,Mean Girls
+MG/4,Karen Smith,Mean Girls
+MG/5,Janis Ian,Mean Girls
+MG/6,Damian Leigh,Mean Girls
+MG/7,Aaron Samuels,Mean Girls
+MG/8,Ms. Sharon Norbury,Mean Girls
+MG/9,June George,Mean Girls
+MG/10,Betsy Heron,Mean Girls
+MF/1,Jay Pritchett,Modern Family
+MF/2,Gloria Delgado-Pritchett,Modern Family
+MF/3,Claire Dunphy,Modern Family
+MF/4,Phil Dunphy,Modern Family
+MF/5,Mitchell Pritchett,Modern Family
+MF/6,Cameron Tucker,Modern Family
+MF/7,Luke Dunphy,Modern Family
+MF/8,Manny Delgado,Modern Family
+MF/9,Haley Dunphy,Modern Family
+MF/10,Alex Dunphy,Modern Family
+MM/1,Don Draper,Mad Men
+MM/2,Peggy Olson,Mad Men
+MM/3,Pete Campbell,Mad Men
+MM/4,Betty Draper,Mad Men
+MM/5,Joan Holloway,Mad Men
+MM/6,Salvatore Romano,Mad Men
+MM/7,Paul Kinsey,Mad Men
+MM/8,Ken Cosgrove,Mad Men
+MM/9,Harry Crane,Mad Men
+MM/10,Rachel Menken,Mad Men
+MM/11,Roger Sterling,Mad Men
+MM/12,Bert Cooper,Mad Men
+MM/13,Henry Francis,Mad Men
+MM/14,Lane Pryce,Mad Men
+MM/15,Stan Rizzo,Mad Men
+MI/1,James P. Sullivan,"Monsters, Inc."
+MI/2,Mike Wazowski,"Monsters, Inc."
+MI/3,Randall Boggs,"Monsters, Inc."
+MH/1,Holden Ford,Mindhunter
+MH/2,Bill Tench,Mindhunter
+MH/3,Dr. Wendy Carr,Mindhunter
+OFOCN/1,Randle Patrick McMurphy,One Flew Over the Cuckoo's Nest
+OFOCN/2,Nurse Mildred Ratched,One Flew Over the Cuckoo's Nest
+OFOCN/3,'Chief' Bromden,One Flew Over the Cuckoo's Nest
+OFOCN/4,Dale Harding,One Flew Over the Cuckoo's Nest
+OFOCN/5,Billy Bibbit,One Flew Over the Cuckoo's Nest
+OFOCN/6,Charlie Cheswick,One Flew Over the Cuckoo's Nest
+SBSP/1,SpongeBob SquarePants,SpongeBob SquarePants
+SBSP/2,Patrick Star,SpongeBob SquarePants
+SBSP/3,Squidward Tentacles,SpongeBob SquarePants
+SBSP/4,Mr. Krabs,SpongeBob SquarePants
+SBSP/5,Sandy Cheeks,SpongeBob SquarePants
+MR/1,Elliot Alderson,Mr. Robot
+MR/2,Mr. Robot,Mr. Robot
+MR/3,Darlene,Mr. Robot
+MR/4,Tyrell Wellick,Mr. Robot
+MR/5,Angela Moss,Mr. Robot
+MR/6,Dominique DiPierro,Mr. Robot
+FR/1,Anna,Frozen
+FR/2,Elsa,Frozen
+FR/3,Kristoff,Frozen
+FR/4,Olaf,Frozen
+FR/5,Hans,Frozen
+FS/1,Malcolm Reynolds,Firefly + Serenity
+FS/2,River Tam,Firefly + Serenity
+FS/3,Inara Serra,Firefly + Serenity
+FS/4,Kaylee Frye,Firefly + Serenity
+FS/5,Zoe Washburne,Firefly + Serenity
+FS/6,Hoban Washburne,Firefly + Serenity
+FS/7,Jayne Cobb,Firefly + Serenity
+FS/8,Derrial Book,Firefly + Serenity
+FS/9,Simon Tam,Firefly + Serenity
+FS/10,The Operative,Firefly + Serenity
+B99/1,Jake Peralta,Brooklyn Nine-Nine
+B99/2,Rosa Diaz,Brooklyn Nine-Nine
+B99/3,Terry Jeffords,Brooklyn Nine-Nine
+B99/4,Amy Santiago,Brooklyn Nine-Nine
+B99/5,Charles Boyle,Brooklyn Nine-Nine
+B99/6,Raymond Holt,Brooklyn Nine-Nine
+SMV/1,Clark Kent,Smallville
+SMV/2,Chloe Sullivan,Smallville
+SMV/3,Lana Lang,Smallville
+SMV/4,Lex Luthor,Smallville
+SMV/5,Lionel Luthor,Smallville
+SMV/6,Lois Lane,Smallville
+S7/1,David Mills,Se7en
+S7/2,William Somerset,Se7en
+S7/3,Tracy Mills,Se7en
+FB/1,Fleabag,Fleabag
+FB/2,Claire,Fleabag
+FB/3,Godmother,Fleabag
+FC/1,Tyler Durden,Fight Club
+FC/2,The Narrator,Fight Club
+FC/3,Marla Singer,Fight Club
+FF/1,Dominic Toretto,Fast & Furious
+FF/2,Brian O'Conner,Fast & Furious
+FF/3,Letty Ortiz,Fast & Furious
+FF/4,Mia Toretto,Fast & Furious
+FF/5,Han Lue,Fast & Furious
+FF/6,Gisele Yashar,Fast & Furious
+FG/1,Forrest Gump,Forrest Gump
+FG/2,Jenny Curran,Forrest Gump
+FG/3,Dan Taylor,Forrest Gump
+FL/1,Barry Allen,The Flash
+FL/2,Iris West,The Flash
+FL/3,Caitlin Snow,The Flash
+FL/4,Cisco Ramon,The Flash
+FL/5,Dr. Harry Wells,The Flash
+FL/6,Joe West,The Flash
+FN/1,Nemo,Finding Nemo
+FN/2,Marlin,Finding Nemo
+FN/3,Dory,Finding Nemo
+FO/1,Lucy MacLean,Fallout
+FO/2,Maximus,Fallout
+FO/3,Cooper Howard,Fallout
+FO/4,Norm MacLean,Fallout
+FO/5,Betty Pearson,Fallout
+FO/6,Chet,Fallout
+HIMYM/1,Ted Mosby,How I Met Your Mother
+HIMYM/2,Marshall Eriksen,How I Met Your Mother
+HIMYM/3,Robin Scherbatsky,How I Met Your Mother
+HIMYM/4,Barney Stinson,How I Met Your Mother
+HIMYM/5,Lily Aldrin,How I Met Your Mother
+BSU/1,Jesse,Before Sunrise
+BSU/2,Celine,Before Sunrise
+BSG/1,William Adama,Battlestar Galactica
+BSG/2,Laura Roslin,Battlestar Galactica
+BSG/3,Kara 'Starbuck' Thrace,Battlestar Galactica
+BSG/4,Lee 'Apollo' Adama,Battlestar Galactica
+BSG/5,Gaius Baltar,Battlestar Galactica
+BSG/6,Number Six,Battlestar Galactica
+BSG/7,Sharon 'Boomer' Valerii,Battlestar Galactica
+BSG/8,Saul Tigh,Battlestar Galactica
+BSG/9,Galen Tyrol,Battlestar Galactica
+BSG/10,Karl 'Helo' Agathon,Battlestar Galactica
+BSG/11,Felix Gaeta,Battlestar Galactica
+BSG/12,Anastasia Dualla,Battlestar Galactica
+BSG/13,Billy Keikeya,Battlestar Galactica
+BSG/14,Cally Henderson,Battlestar Galactica
+BSG/15,Samuel 'Longshot' Anders,Battlestar Galactica
+OUT/1,Regina Mills,Once Upon a Time
+OUT/2,Mr. Gold,Once Upon a Time
+OUT/3,Henry Mills,Once Upon a Time
+OUT/4,Emma Swan,Once Upon a Time
+OUT/5,Mary Margaret Blanchard,Once Upon a Time
+OUT/6,David Nolan,Once Upon a Time
+OUT/7,Captain Killian 'Hook' Jones,Once Upon a Time
+OUT/8,Belle French,Once Upon a Time
+OUT/9,Zelena,Once Upon a Time
+OUT/10,Granny Lucas,Once Upon a Time
+SPN/1,Sutter Keely,The Spectacular Now
+SPN/2,Aimee Finecky,The Spectacular Now
+F/1,Rachel Green,Friends
+F/2,Monica Geller,Friends
+F/3,Phoebe Buffay,Friends
+F/4,Joey Tribbiani,Friends
+F/5,Chandler Bing,Friends
+F/6,Ross Geller,Friends
+V/1,Selina Meyer,Veep
+V/2,Amy Brookheimer,Veep
+V/3,Gary Walsh,Veep
+V/4,Dan Egan,Veep
+V/5,Jonah Ryan,Veep
+V/6,Mike McLintock,Veep
+SITR/1,Don Lockwood,Singin' in the Rain
+SITR/2,Kathy Selden,Singin' in the Rain
+SITR/3,Cosmo Brown,Singin' in the Rain
+CTHD/1,Li Mu Bai,"Crouching Tiger, Hidden Dragon"
+CTHD/2,Yu Shu Lien,"Crouching Tiger, Hidden Dragon"
+CTHD/3,Jen Yu,"Crouching Tiger, Hidden Dragon"
+O11/1,Danny Ocean,Ocean's 11
+O11/2,Rusty Ryan,Ocean's 11
+O11/3,Linus Caldwell,Ocean's 11
+O11/4,Basher Tarr,Ocean's 11
+O11/5,Terry Benedict,Ocean's 11
+O11/6,Tess Ocean,Ocean's 11
+SS/1,Jonah Simms,Superstore
+SS/2,Dina Fox,Superstore
+SS/3,Garrett McNeill,Superstore
+SS/4,Mateo Liwanag,Superstore
+SS/5,Glenn Sturgis,Superstore
+SS/6,Amy Sosa,Superstore
+SR/1,Andy Dufresne,The Shawshank Redemption
+SR/2,Ellis Boyd 'Red' Redding,The Shawshank Redemption
+SR/3,Samuel Norton,The Shawshank Redemption
+SR/4,Heywood,The Shawshank Redemption
+SR/5,Byron Hadley,The Shawshank Redemption
+SR/6,Brooks Hatlen,The Shawshank Redemption
+SP/1,Stan Marsh,South Park
+SP/2,Kyle Broflovski,South Park
+SP/3,Eric Cartman,South Park
+SP/4,Kenny McCormick,South Park
+SP/5,Leopold 'Butters' Stotch,South Park
+RLA/1,Indiana Jones,Raiders of the Lost Ark
+RLA/2,Marion Ravenwood,Raiders of the Lost Ark
+RLA/3,Dr. Rene Belloq,Raiders of the Lost Ark
+RLA/4,Major Arnold Toht,Raiders of the Lost Ark
+RLA/5,Sallah,Raiders of the Lost Ark
+RLA/6,Dr. Marcus Brody,Raiders of the Lost Ark
+SV/1,Richard Hendricks,Silicon Valley
+SV/2,Erlich Bachman,Silicon Valley
+SV/3,Nelson Bighetti,Silicon Valley
+SV/4,Bertram Gilfoyle,Silicon Valley
+SV/5,Dinesh Chugtai,Silicon Valley
+SV/6,Peter Gregory,Silicon Valley
+SV/7,Monica Hall,Silicon Valley
+SV/8,Jared Dunn,Silicon Valley
+SV/9,Gavin Belson,Silicon Valley
+SV/10,Jian-Yang,Silicon Valley
+SU/1,Sam Winchester,Supernatural
+SU/2,Dean Winchester,Supernatural
+SU/3,Castiel,Supernatural
+ST/1,Joyce Byers,Stranger Things
+ST/2,Jim Hopper,Stranger Things
+ST/3,Mike Wheeler,Stranger Things
+ST/4,Eleven,Stranger Things
+ST/5,Dustin Henderson,Stranger Things
+ST/6,Lucas Sinclair,Stranger Things
+ST/7,Nancy Wheeler,Stranger Things
+ST/8,Jonathan Byers,Stranger Things
+ST/9,Steve Harrington,Stranger Things
+ST/10,Karen Wheeler,Stranger Things
+ST/11,Will Byers,Stranger Things
+ST/12,Max Mayfield,Stranger Things
+ST/13,Erica Sinclair,Stranger Things
+ST/14,Billy Hargrove,Stranger Things
+ST/15,Robin Buckley,Stranger Things
+MMM/1,Miriam Maisel,The Marvelous Mrs. Maisel
+MMM/2,Susie Myerson,The Marvelous Mrs. Maisel
+MMM/3,Joel Maisel,The Marvelous Mrs. Maisel
+MMM/4,Rose Weissman,The Marvelous Mrs. Maisel
+MMM/5,Abe Weissman,The Marvelous Mrs. Maisel
+MMI/1,Donna Sheridan,Mamma Mia!
+MMI/2,Sophie Sheridan,Mamma Mia!
+MMI/3,Tanya Chesham-Leigh,Mamma Mia!
+MMI/4,Rosie Mulligan,Mamma Mia!
+MMI/5,Sam Carmichael,Mamma Mia!
+MMI/6,Harry Bright,Mamma Mia!
+MMI/7,Bill Anderson,Mamma Mia!
+MMI/8,Sky Ramand,Mamma Mia!
+MMI/9,Pepper,Mamma Mia!
+MMI/10,Ali,Mamma Mia!
+SN/1,Mark Zuckerberg,The Social Network
+SN/2,Eduardo Saverin,The Social Network
+SN/3,Sean Parker,The Social Network
+SN/4,Tyler Winklevoss,The Social Network
+SN/5,Divya Narendra,The Social Network
+SN/6,Christy Lee,The Social Network
+SM/1,Sailor Moon,Sailor Moon
+SM/2,Tuxedo Mask,Sailor Moon
+SM/3,Sailor Mercury,Sailor Moon
+SM/4,Sailor Mars,Sailor Moon
+SM/5,Sailor Jupiter,Sailor Moon
+SM/6,Sailor Venus,Sailor Moon
+LMO/1,Nathaniel 'Hawkeye' Poe,The Last of the Mohicans
+LMO/2,Cora Munro,The Last of the Mohicans
+SC/1,Carrie Bradshaw,Sex and the City
+SC/2,Charlotte York,Sex and the City
+SC/3,Miranda Hobbes,Sex and the City
+SC/4,Samantha Jones,Sex and the City
+SC/5,Mr. Big,Sex and the City
+SC/6,Steve Brady,Sex and the City
+SB/1,Seth,Superbad
+SB/2,Evan,Superbad
+SB/3,Fogell (McLovin),Superbad
+SB/4,Jules,Superbad
+SB/5,Becca,Superbad
+SB/6,Officer Slater,Superbad
+SA/1,Jackson 'Jax' Teller,Sons of Anarchy
+SA/2,Gemma Teller Morrow,Sons of Anarchy
+SA/3,Robert 'Bobby Elvis' Munson,Sons of Anarchy
+SA/4,Alexander 'Tig' Trager,Sons of Anarchy
+SA/5,Filip 'Chibs' Telford,Sons of Anarchy
+SG/1,Kara Danvers,Supergirl
+SG/2,Alex Danvers,Supergirl
+SG/3,J'onn J'onzz,Supergirl
+SG/4,James Olsen,Supergirl
+SG/5,Lena Luthor,Supergirl
+SG/6,Winn Schott,Supergirl
+SF/1,Jerry Seinfeld,Seinfeld
+SF/2,George Costanza,Seinfeld
+SF/3,Elaine Benes,Seinfeld
+SF/4,Cosmo Kramer,Seinfeld
+SF/5,Morty Seinfeld,Seinfeld
+SF/6,Helen Seinfeld,Seinfeld
+SE/1,Otis Milburn,Sex Education
+SE/2,Jean Milburn,Sex Education
+SE/3,Maeve Wiley,Sex Education
+SE/4,Eric Effiong,Sex Education
+SE/5,Adam Groff,Sex Education
+SE/6,Jackson Marchetti,Sex Education
+SE/7,Aimee Gibbs,Sex Education
+SE/8,Michael Groff,Sex Education
+SE/9,Lily Iglehart,Sex Education
+SE/10,Ola Nyman,Sex Education
+SD/1,Shaun,Shaun of the Dead
+SD/2,Ed,Shaun of the Dead
+SD/3,Liz,Shaun of the Dead
+YH/1,Michael Desiato,Your Honor
+YH/2,Gina Baxter,Your Honor
+YH/3,Jimmy Baxter,Your Honor
+YJ/1,Shauna,Yellowjackets
+YJ/2,Taissa,Yellowjackets
+YJ/3,Jackie,Yellowjackets
+YJ/4,Natalie,Yellowjackets
+YJ/5,Misty,Yellowjackets
+YJ/6,Ben Scott,Yellowjackets
+CAS/1,Sabrina Spellman,Chilling Adventures of Sabrina
+CAS/2,Harvey Kinkle,Chilling Adventures of Sabrina
+CAS/3,Hilda Spellman,Chilling Adventures of Sabrina
+CAS/4,Ambrose Spellman,Chilling Adventures of Sabrina
+CAS/5,Mary Wardwell,Chilling Adventures of Sabrina
+CAS/6,Rosalind Walker,Chilling Adventures of Sabrina
+CAS/7,Prudence Night,Chilling Adventures of Sabrina
+CAS/8,Agatha,Chilling Adventures of Sabrina
+CAS/9,Father Faustus Blackwood,Chilling Adventures of Sabrina
+CAS/10,Zelda Spellman,Chilling Adventures of Sabrina
+UKS/1,Kimmy Schmidt,Unbreakable Kimmy Schmidt
+UKS/2,Titus Andromedon,Unbreakable Kimmy Schmidt
+UKS/3,Lillian Kaushtupper,Unbreakable Kimmy Schmidt
+UKS/4,Jacqueline White,Unbreakable Kimmy Schmidt
+UKS/5,Cyndee Pokorny,Unbreakable Kimmy Schmidt
+MITM/1,Hal Wilkerson,Malcolm in the Middle
+MITM/2,Reese Wilkerson,Malcolm in the Middle
+MITM/3,Dewey Wilkerson,Malcolm in the Middle
+MITM/4,Lois Wilkerson,Malcolm in the Middle
+MITM/5,Francis Wilkerson,Malcolm in the Middle
+MITM/6,Malcolm Wilkerson,Malcolm in the Middle
+FUTR/1,Philip J. Fry,Futurama
+FUTR/2,Turanga Leela,Futurama
+FUTR/3,Bender Bending Rodriguez,Futurama
+FUTR/4,Professor Hubert J. Farnsworth,Futurama
+FUTR/5,Amy Wong,Futurama
+FUTR/6,Hermes Conrad,Futurama
+FUTR/7,Dr. John A. Zoidberg,Futurama
+FUTR/8,Zapp Brannigan,Futurama
+FUTR/9,Kif Kroker,Futurama
+FUTR/10,Carol 'Mom' Miller,Futurama
+CAD/1,Ethan Ryan MacManus,Ctrl+Alt+Del
+CAD/2,Lucas Davidowicz,Ctrl+Alt+Del
+CAD/3,Lilah MacManus,Ctrl+Alt+Del
+NHF/1,Maddie Barker,No Hard Feelings
+NHF/2,Percy Becker,No Hard Feelings
+MRSD/1,Clarissa Dalloway,Mrs Dalloway
+ONB/1,Piper Chapman,Orange is the New Black
+ONB/2,Alex Vause,Orange is the New Black
+ONB/3,Sam Healy,Orange is the New Black
+ONB/4,Red Reznikov,Orange is the New Black
+ONB/5,Crazy Eyes,Orange is the New Black
+ONB/6,Taystee Jefferson,Orange is the New Black
+ONB/7,Nicky Nichols,Orange is the New Black
+ONB/8,Pennsatucky Doggett,Orange is the New Black
+ONB/9,Lorna Morello,Orange is the New Black
+ONB/10,Flaca Gonzales,Orange is the New Black
+WHMS/1,Sally Albright,When Harry Met Sally...
+WHMS/2,Harry Burns,When Harry Met Sally...
+LM/1,Jean Valjean,Les Miserables
+LM/2,Javert,Les Miserables
+LM/3,Fantine,Les Miserables
+LM/4,Cosette,Les Miserables
+LM/5,Marius Pontmercy,Les Miserables
+LK/1,Simba,The Lion King
+LK/2,Nala,The Lion King
+LK/3,Timon,The Lion King
+LK/4,Pumbaa,The Lion King
+LK/5,Scar,The Lion King
+LK/6,Mufasa,The Lion King
+LW/1,Jo March,Little Women
+LW/2,Meg March,Little Women
+LW/3,Amy March,Little Women
+LW/4,Beth March,Little Women
+LW/5,Marmee March,Little Women
+LW/6,Theodore Laurence,Little Women
+LU/1,Lucifer Morningstar,Lucifer
+LU/2,Chloe Decker,Lucifer
+LU/3,Dan Espinoza,Lucifer
+LU/4,Amenadiel,Lucifer
+LU/5,Mazikeen,Lucifer
+LU/6,Linda Martin,Lucifer
+LS/1,Lilo Pelekai,Lilo & Stitch
+LS/2,Nani Pelekai,Lilo & Stitch
+LS/3,Dr. Jumba Jookiba,Lilo & Stitch
+LS/4,Agt. Wendell Pleakley,Lilo & Stitch
+LS/5,Cobra Bubbles,Lilo & Stitch
+LS/6,Stitch,Lilo & Stitch
+A/1,Dallas,Alien
+A/2,Ellen Ripley,Alien
+A/3,Lambert,Alien
+A/4,Ash,Alien
+A/5,the Alien,Alien
+A/6,Parker,Alien
+HGU/1,Patrizia Reggiani,House of Gucci
+HGU/2,Maurizio Gucci,House of Gucci
+STV/1,Kathryn Janeway,Star Trek: Voyager
+STV/2,Chakotay,Star Trek: Voyager
+STV/3,B'Elanna Torres,Star Trek: Voyager
+STV/4,Tom Paris,Star Trek: Voyager
+STV/5,Neelix,Star Trek: Voyager
+STV/6,The Doctor,Star Trek: Voyager
+STV/7,Tuvok,Star Trek: Voyager
+STV/8,Harry Kim,Star Trek: Voyager
+STV/9,Seven of Nine,Star Trek: Voyager
+STV/10,Kes,Star Trek: Voyager
+EEAO/1,Evelyn Quan Wang,Everything Everywhere All at Once
+EEAO/2,Joy Wang,Everything Everywhere All at Once
+EEAO/3,Waymond Wang,Everything Everywhere All at Once
+GLAD/1,Maximus,Gladiator
+GLAD/2,Commodus,Gladiator
+GLAD/3,Lucilla,Gladiator
+P/1,Kim Ki-taek,Parasite
+P/2,Park Dong-ik,Parasite
+P/3,Choi Yeon-gyo,Parasite
+P/4,Kim Ki-woo,Parasite
+P/5,Kim Ki-jung,Parasite
+P/6,Chung-sook,Parasite
+BLKL/1,Raymond 'Red' Reddington,The Blacklist
+BLKL/2,Elizabeth Keen,The Blacklist
+BLKL/3,Donald Ressler,The Blacklist
+BLKL/4,Harold Cooper,The Blacklist
+BLKL/5,Dembe Zuma,The Blacklist
+BLKL/6,Aram Mojtabai,The Blacklist
+GHD/1,Phil Connors,Groundhog Day
+GHD/2,Rita Hanson,Groundhog Day
+DHSAB/1,Dr. Horrible,Dr. Horrible's Sing-Along Blog
+DHSAB/2,Captain Hammer,Dr. Horrible's Sing-Along Blog
+DHSAB/3,Penny,Dr. Horrible's Sing-Along Blog
+FNL/1,Eric Taylor,Friday Night Lights
+FNL/2,Tami Taylor,Friday Night Lights
+FNL/3,Smash Williams,Friday Night Lights
+FNL/4,Matt Saracen,Friday Night Lights
+FNL/5,Lyla Garrity,Friday Night Lights
+FNL/6,Tim Riggins,Friday Night Lights
+FNL/7,Tyra Collette,Friday Night Lights
+FNL/8,Landry Clarke,Friday Night Lights
+FNL/9,Jason Street,Friday Night Lights
+FNL/10,Julie Taylor,Friday Night Lights
+SsC/1,Johnny Rose,Schitt's Creek
+SsC/2,Moira Rose,Schitt's Creek
+SsC/3,David Rose,Schitt's Creek
+SsC/4,Alexis Rose,Schitt's Creek
+SsC/5,Stevie Budd,Schitt's Creek
+SsC/6,Ted Mullens,Schitt's Creek
+LBT/1,Littlefoot,The Land Before Time
+LBT/2,Cera,The Land Before Time
+LBT/3,Ducky,The Land Before Time
+LBT/4,Petrie,The Land Before Time
+LBT/5,Spike,The Land Before Time
+T100/1,Clarke Griffin,The 100
+T100/2,Bellamy Blake,The 100
+T100/3,Octavia Blake,The 100
+T100/4,Raven Reyes,The 100
+T100/5,Dr. Abigail Griffin,The 100
+T100/6,John Murphy,The 100
+T100/7,Marcus Kane,The 100
+T100/8,Monty Green,The 100
+T100/9,Nathan Miller,The 100
+T100/10,Thelonious Jaha,The 100
+RD/1,Archie Andrews,Riverdale
+RD/2,Betty Cooper,Riverdale
+RD/3,Veronica Lodge,Riverdale
+RD/4,Jughead Jones,Riverdale
+RD/5,Kevin Keller,Riverdale
+RD/6,Cheryl Blossom,Riverdale
+RD/7,Alice Cooper,Riverdale
+RD/8,Hiram Lodge,Riverdale
+RD/9,Toni Topaz,Riverdale
+RD/10,Reggie Mantle,Riverdale
+RD/11,Hermione Lodge,Riverdale
+RD/12,FP Jones,Riverdale
+RD/13,Fangs Fogarty,Riverdale
+RD/14,Tom Keller,Riverdale
+RD/15,Pop Tate,Riverdale
+RAT/1,Remy,Ratatouille
+RAT/2,Alfredo Linguini,Ratatouille
+RAT/3,Chef Skinner,Ratatouille
+TCJR/1,Jack Ryan,Tom Clancy's Jack Ryan
+TCJR/2,James Greer,Tom Clancy's Jack Ryan
+TCJR/3,Mike November,Tom Clancy's Jack Ryan
+SCDL/1,Olivia Pope,Scandal
+SCDL/2,Abby Whelan,Scandal
+SCDL/3,Quinn Perkins,Scandal
+SCDL/4,Huck,Scandal
+SCDL/5,Cyrus Beene,Scandal
+SCDL/6,David Rosen,Scandal
+SCDL/7,Mellie Grant,Scandal
+SCDL/8,Fitzgerald Grant,Scandal
+SCDL/9,Jake Ballard,Scandal
+SCDL/10,Rowan Pope,Scandal
+RM/1,Rick Sanchez,Rick and Morty
+RM/2,Morty Smith,Rick and Morty
+RM/3,Summer Smith,Rick and Morty
+RO/1,Jyn Erso,Rogue One
+RO/2,Cassian Andor,Rogue One
+RH/1,Robin Hood,Robin Hood
+RH/2,Maid Marian,Robin Hood
+RH/3,Little John,Robin Hood
+RH/4,Friar Tuck,Robin Hood
+RH/5,Prince John,Robin Hood
+RH/6,Sheriff of Nottingham,Robin Hood
+RJ/1,Romeo Montague,Romeo and Juliet
+RJ/2,Juliet Capulet,Romeo and Juliet
+RJ/3,Friar Laurence,Romeo and Juliet
+RJ/4,Mercutio,Romeo and Juliet
+RJ/5,The Nurse,Romeo and Juliet
+RJ/6,Benvolio,Romeo and Juliet
+TPB/1,Westley,The Princess Bride
+TPB/2,Buttercup,The Princess Bride
+TPB/3,Inigo Montoya,The Princess Bride
+TPB/4,Prince Humperdinck,The Princess Bride
+TPB/5,Vizzini,The Princess Bride
+L/1,Sayid Jarrah,LOST
+L/2,Claire Littleton,LOST
+L/3,Jack Shephard,LOST
+L/4,Hugo 'Hurley' Reyes,LOST
+L/5,Shannon Rutherford,LOST
+L/6,James 'Sawyer' Ford,LOST
+L/7,Benjamin Linus,LOST
+L/8,Jin-Soo Kwon,LOST
+L/9,Michael Dawson,LOST
+L/10,Desmond Hume,LOST
+L/11,Sun-Hwa Kwon,LOST
+L/12,Kate Austen,LOST
+L/13,Charlie Pace,LOST
+L/14,John Locke,LOST
+L/15,Juliet Burke,LOST
+PYW/1,Cassie Thomas,Promising Young Woman
+PYW/2,Ryan Cooper,Promising Young Woman
+PYO/1,Norman Bates,Psycho
+PYO/2,Marion Crane,Psycho
+PYO/3,Lila Crane,Psycho
+RHD/1,Joe Bradley,Roman Holiday
+RHD/2,Princess Ann,Roman Holiday
+NGE/1,Shinji Ikari,Neon Genesis Evangelion
+NGE/2,Misato Katsuragi,Neon Genesis Evangelion
+NGE/3,Ritsuko Akagi,Neon Genesis Evangelion
+NGE/4,Rei Ayanami,Neon Genesis Evangelion
+NGE/5,Asuka Langly Soryu,Neon Genesis Evangelion
+NGE/6,Kozo Fuyutsuki,Neon Genesis Evangelion
+AoS/1,Phil Coulson,Agents of S.H.I.E.L.D.
+AoS/2,Melinda May,Agents of S.H.I.E.L.D.
+AoS/3,Daisy 'Skye' Johnson,Agents of S.H.I.E.L.D.
+AoS/4,Jemma Simmons,Agents of S.H.I.E.L.D.
+AoS/5,Leo Fitz,Agents of S.H.I.E.L.D.
+AoS/6,Alphonso 'Mack' Mackenzie,Agents of S.H.I.E.L.D.
+SNW/1,Snow White,Snow White and the Seven Dwarfs
+SNW/2,The Queen,Snow White and the Seven Dwarfs
+SNW/3,Doc,Snow White and the Seven Dwarfs
+PKB/1,Thomas Shelby,Peaky Blinders
+PKB/2,Arthur Shelby,Peaky Blinders
+PKB/3,Aunt Polly,Peaky Blinders
+PKB/4,Ada Shelby,Peaky Blinders
+PKB/5,Charlie Strong,Peaky Blinders
+PKB/6,Michael Gray,Peaky Blinders
+PKF/1,Charlie Cale,Poker Face
+EM/1,Caleb Smith,Ex Machina
+EM/2,Nathan Bateman,Ex Machina
+EM/3,Ava,Ex Machina
+CSI/1,Nick Stokes,CSI: Crime Scene Investigation
+CSI/2,Greg Sanders,CSI: Crime Scene Investigation
+CSI/3,Al Robbins,CSI: Crime Scene Investigation
+CSI/4,Captain Jim Brass,CSI: Crime Scene Investigation
+CSI/5,Sara Sidle,CSI: Crime Scene Investigation
+CSI/6,David Phillips,CSI: Crime Scene Investigation
+G/1,Hannah Horvath,Girls
+G/2,Marnie Michaels,Girls
+G/3,Jessa Johansson,Girls
+G/4,Shoshanna Shapiro,Girls
+G/5,Adam Sackler,Girls
+G/6,Ray Ploshansky,Girls
+SHW/1,Elisa Esposito,The Shape of Water
+SHW/2,The Amphibian Man,The Shape of Water
+EG/1,Ender Wiggin,Ender's Game
+EG/2,Colonel Graff,Ender's Game
+EG/3,Petra Arkanian,Ender's Game
+EG/4,Valentine Wiggin,Ender's Game
+EG/5,Peter Wiggin,Ender's Game
+EG/6,Bean,Ender's Game
+BOBB/1,Bob Belcher,Bob's Burgers
+BOBB/2,Linda Belcher,Bob's Burgers
+BOBB/3,Tina Belcher,Bob's Burgers
+BOBB/4,Gene Belcher,Bob's Burgers
+BOBB/5,Louise Belcher,Bob's Burgers
+ENT/1,Eric Murphy,Entourage
+ENT/2,Vincent Chase,Entourage
+ENT/3,Johnny 'Drama' Chase,Entourage
+ENT/4,Turtle,Entourage
+ENT/5,Ari Gold,Entourage
+BKSM/1,Molly Davidson,Booksmart
+BKSM/2,Amy Antsler,Booksmart
+EU/1,Rue Bennett,Euphoria
+EU/2,Jules Vaughn,Euphoria
+EU/3,Cassie Howard,Euphoria
+EU/4,Nate Jacobs,Euphoria
+EU/5,Lexi Howard,Euphoria
+EU/6,Maddy Perez,Euphoria
+SHL/1,Frank Gallagher,Shameless
+SHL/2,Carl Gallagher,Shameless
+SHL/3,Lip Gallagher,Shameless
+SHL/4,Veronica Fisher,Shameless
+SHL/5,Kevin Ball,Shameless
+SHL/6,Debbie Gallagher,Shameless
+SHL/7,Ian Gallagher,Shameless
+SHL/8,Fiona Gallagher,Shameless
+SHL/9,Tommy,Shameless
+SHL/10,Kermit,Shameless
+EP/1,Emily Cooper,Emily in Paris
+EP/2,Sylvie Grateau,Emily in Paris
+EP/3,Mindy Chen,Emily in Paris
+EP/4,Gabriel,Emily in Paris
+EP/5,Julien,Emily in Paris
+EP/6,Luc,Emily in Paris
+ER/1,John Carter,ER
+ER/2,Kerry Weaver,ER
+ER/3,Chuny Marquez,ER
+ER/4,Malik McGrath,ER
+ER/5,Abby Lockhart,ER
+ER/6,Luka Kovac,ER
+TBS/1,Kumail Nanjiani,The Big Sick
+TBS/2,Emily Gardner,The Big Sick
+GLEE/1,Kurt Hummel,Glee
+GLEE/2,Sue Sylvester,Glee
+GLEE/3,Rachel Berry,Glee
+GLEE/4,Will Schuester,Glee
+GLEE/5,Artie Abrams,Glee
+GLEE/6,Santana Lopez,Glee
+GLEE/7,Tina Cohen-Chang,Glee
+GLEE/8,Mercedes Jones,Glee
+GLEE/9,Noah Puckerman,Glee
+GLEE/10,Brittany Pierce,Glee
+GLEE/11,Sam Evans,Glee
+GLEE/12,Blaine Anderson,Glee
+GLEE/13,Mike Chang,Glee
+GLEE/14,Finn Hudson,Glee
+GLEE/15,Emma Pillsbury,Glee
+BTF/1,Marty McFly,Back to the Future
+BTF/2,Doc Brown,Back to the Future
+BTF/3,Jennifer Parker,Back to the Future
+SSB/1,Elinor Dashwood,Sense and Sensibility
+SSB/2,Marianne Dashwood,Sense and Sensibility
+SSB/3,Colonel Brandon,Sense and Sensibility
+SSB/4,Edward Ferrars,Sense and Sensibility
+SSB/5,John Willoughby,Sense and Sensibility
+FBDO/1,Ferris Bueller,Ferris Bueller's Day Off
+FBDO/2,Cameron Frye,Ferris Bueller's Day Off
+FBDO/3,Sloane Peterson,Ferris Bueller's Day Off
+ASP/1,Charlie Kelly,It's Always Sunny in Philadelphia
+ASP/2,Dennis Reynolds,It's Always Sunny in Philadelphia
+ASP/3,Mac,It's Always Sunny in Philadelphia
+ASP/4,Dee Reynolds,It's Always Sunny in Philadelphia
+ASP/5,Frank Reynolds,It's Always Sunny in Philadelphia
+DGI/1,Archie 'Snake' Simpson,Degrassi: The Next Generation
+DGI/2,Clare Edwards,Degrassi: The Next Generation
+DGI/3,Alli Bhandari,Degrassi: The Next Generation
+DGI/4,Connor Deslauriers,Degrassi: The Next Generation
+DGI/5,Gavin 'Spinner' Mason,Degrassi: The Next Generation
+DGI/6,Emma Nelson,Degrassi: The Next Generation
+DGI/7,Manny Santos,Degrassi: The Next Generation
+DGI/8,Drew Torres,Degrassi: The Next Generation
+DGI/9,Jenna Middleton,Degrassi: The Next Generation
+DGI/10,Liberty Van Zandt,Degrassi: The Next Generation
+MASH/1,Benjamin 'Hawkeye' Pierce,M*A*S*H
+MASH/2,Margaret 'Hot Lips' Houlihan,M*A*S*H
+MASH/3,Maxwell Klinger,M*A*S*H
+MASH/4,Francis Mulcahy,M*A*S*H
+MASH/5,Frank Burns,M*A*S*H
+MASH/6,Walter 'Radar' O'Reilly,M*A*S*H
+ASB/1,Jack Maine,A Star Is Born
+ASB/2,Ally Maine,A Star Is Born
+B/1,Temperance Brennan,Bones
+B/2,Seeley Booth,Bones
+B/3,Angela Montenegro,Bones
+B/4,Jack Hodgins,Bones
+B/5,Camille Saroyan,Bones
+CSTL/1,Richard Castle,Castle
+CSTL/2,Kate Beckett,Castle
+CSTL/3,Martha Rodgers,Castle
+CSTL/4,Javier Esposito,Castle
+CSTL/5,Kevin Ryan,Castle
+CSTL/6,Alexis Castle,Castle
+XM/1,Wolverine,X-Men
+XM/2,Professor X,X-Men
+XM/3,Magneto,X-Men
+XM/4,Mystique,X-Men
+XM/5,Jean Grey,X-Men
+XM/6,Cyclops,X-Men
+XM/7,Storm,X-Men
+XM/8,Rogue,X-Men
+XM/9,Iceman,X-Men
+XM/10,Colossus,X-Men
+GTH/1,James Gordon,Gotham
+GTH/2,Harvey Bullock,Gotham
+GTH/3,Bruce Wayne,Gotham
+GTH/4,Oswald Cobblepot,Gotham
+GTH/5,Selina Kyle,Gotham
+GTH/6,Edward Nygma,Gotham
+GTH/7,Alfred Pennyworth,Gotham
+GTH/8,Barbara Kean,Gotham
+GTH/9,Leslie Thompkins,Gotham
+GTH/10,Lucius Fox,Gotham
+TWCH/1,Geralt of Rivia,The Witcher
+TWCH/2,Ciri,The Witcher
+TWCH/3,Yennefer,The Witcher
+TWCH/4,Fringilla,The Witcher
+TWCH/5,Cahir,The Witcher
+TWCH/6,Tissaia,The Witcher
+TWCH/7,Dara,The Witcher
+TWCH/8,Triss,The Witcher
+TWCH/9,Jaskier,The Witcher
+TWCH/10,Istredd,The Witcher
+XF/1,Fox Mulder,The X-Files
+XF/2,Dana Scully,The X-Files
+XF/3,Walter Skinner,The X-Files
+R/1,Johnny,The Room
+R/2,Lisa,The Room
+R/3,Mark,The Room
+R/4,Denny,The Room
+R/5,Peter,The Room
+R/6,Michelle,The Room
+BBT/1,Leonard Hofstadter,The Big Bang Theory
+BBT/2,Sheldon Cooper,The Big Bang Theory
+BBT/3,Penny,The Big Bang Theory
+BBT/4,Howard Wolowitz,The Big Bang Theory
+BBT/5,Raj Koothrappali,The Big Bang Theory
+BBT/6,Leslie Winkle,The Big Bang Theory
+BBT/7,Bernadette Rostenkowski,The Big Bang Theory
+BBT/8,Amy Farrah Fowler,The Big Bang Theory
+BBT/9,Stuart Bloom,The Big Bang Theory
+BBT/10,Mary Cooper,The Big Bang Theory
+TLM/1,Princess Ariel,The Little Mermaid
+TLM/2,Ursula,The Little Mermaid
+TLM/3,Flounder,The Little Mermaid
+OMB/1,Charles-Haden Savage,Only Murders in the Building
+OMB/2,Oliver Putnam,Only Murders in the Building
+OMB/3,Mabel Mora,Only Murders in the Building
+OMB/4,Howard Morris,Only Murders in the Building
+OMB/5,Uma Heller,Only Murders in the Building
+KE/1,Villanelle,Killing Eve
+KE/2,Eve Polastri,Killing Eve
+KE/3,Carolyn Martens,Killing Eve
+KE/4,Konstantin,Killing Eve
+KE/5,Niko Polastri,Killing Eve
+KE/6,Kenny Stowton,Killing Eve
+GBU/1,Blondie,"The Good, the Bad, and the Ugly"
+GBU/2,Angel Eyes,"The Good, the Bad, and the Ugly"
+GBU/3,Tuco,"The Good, the Bad, and the Ugly"
+SPEED/1,Jack Traven,Speed
+SPEED/2,Howard Payne,Speed
+SPEED/3,Annie Porter,Speed
+DN/1,Light Yagami,Death Note
+DN/2,Touta Matsuda,Death Note
+DN/3,Shuichi Aizawa,Death Note
+DN/4,Ryuk,Death Note
+DN/5,Soichiro Yagami,Death Note
+DN/6,Hideki Ide,Death Note
+DN/7,L,Death Note
+DN/8,Misa Amane,Death Note
+DN/9,Kanzo Mogi,Death Note
+DN/10,Watari,Death Note
+DK/1,Bruce Wayne,The Dark Knight
+DK/2,Alfred Pennyworth,The Dark Knight
+DK/3,The Joker,The Dark Knight
+DK/4,James Gordon,The Dark Knight
+DK/5,Harvey Dent,The Dark Knight
+DK/6,Rachel Dawes,The Dark Knight
+DK/7,Lucius Fox,The Dark Knight
+DK/8,Anthony Garcia,The Dark Knight
+DK/9,Lau,The Dark Knight
+DK/10,Sal Maroni,The Dark Knight
+DH/1,Susan Mayer,Desperate Housewives
+DH/2,Lynette Scavo,Desperate Housewives
+DH/3,Bree Van de Kamp,Desperate Housewives
+DH/4,Gabrielle Solis,Desperate Housewives
+DH/5,Edie Britt,Desperate Housewives
+DH/6,Carlos Solis,Desperate Housewives
+DH/7,Julie Mayer,Desperate Housewives
+DH/8,Mary Alice Young,Desperate Housewives
+DH/9,Mike Delfino,Desperate Housewives
+DH/10,Tom Scavo,Desperate Housewives
+DD/1,Frances 'Baby' Houseman,Dirty Dancing
+DD/2,Johnny Castle,Dirty Dancing
+DA/1,"Robert Crawley, 7th Earl of Grantham",Downton Abbey
+DA/2,Lady Sybil Crawley,Downton Abbey
+DA/3,Lady Edith Crawley,Downton Abbey
+DA/4,Charlie Carson,Downton Abbey
+DA/5,John Bates,Downton Abbey
+DA/6,Lady Mary Crawley,Downton Abbey
+DA/7,Sarah O'Brien,Downton Abbey
+DA/8,Anna Bates,Downton Abbey
+DA/9,Elsie Carson,Downton Abbey
+DA/10,William Mason,Downton Abbey
+DA/11,Thomas Barrow,Downton Abbey
+DA/12,"Cora Crawley, Countess of Grantham",Downton Abbey
+DA/13,Daisy Mason,Downton Abbey
+DA/14,Beryl Patmore,Downton Abbey
+DA/15,"Violet Crawley, Dowager Countess of Grantham",Downton Abbey
+TIHAY/1,Kat Stratford,10 Things I Hate About You
+TIHAY/2,Patrick Verona,10 Things I Hate About You
+TIHAY/3,Cameron James,10 Things I Hate About You
+TIHAY/4,Bianca Stratford,10 Things I Hate About You
+TIHAY/5,Walter Stratford,10 Things I Hate About You
+TIHAY/6,Joey Donner,10 Things I Hate About You
+DS/1,Tom Hansen,(500) Days of Summer
+DS/2,Summer Finn,(500) Days of Summer
+DQ/1,Don Quijote,Don Quixote
+DQ/2,Sancho Panza,Don Quixote
+TGW/1,Alicia Florrick,The Good Wife
+TGW/2,Cary Agos,The Good Wife
+TGW/3,Diane Lockhart,The Good Wife
+TGW/4,Kalinda Sharma,The Good Wife
+TGW/5,Will Gardner,The Good Wife
+TGW/6,Grace Florrick,The Good Wife
+TGD/1,Dr. Shaun Murphy,The Good Doctor
+TGD/2,Dr. Claire Browne,The Good Doctor
+TGD/3,Dr. Marcus Andrews,The Good Doctor
+TGD/4,Dr. Aaron Glassman,The Good Doctor
+TGD/5,Dr. Neil Melendez,The Good Doctor
+TGD/6,Dr. Audrey Lim,The Good Doctor
+TRNF/1,Sam Witwicky,Transformers
+TRNF/2,Mikaela Banes,Transformers
+TRNF/3,Bumblebee,Transformers
+TRNF/4,Optimus Prime,Transformers
+TRNF/5,Megatron,Transformers
+TGM/1,Pete Mitchell,Top Gun: Maverick
+TGM/2,Bradley Bradshaw,Top Gun: Maverick
+TGM/3,Penelope Benjamin,Top Gun: Maverick
+GILG/1,Lorelai Gilmore,Gilmore Girls
+GILG/2,Rory Gilmore,Gilmore Girls
+GILG/3,Lane Kim,Gilmore Girls
+GILG/4,Luke Danes,Gilmore Girls
+GILG/5,Michel Gerard,Gilmore Girls
+GILG/6,Emily Gilmore,Gilmore Girls
+GILG/7,Richard Gilmore,Gilmore Girls
+GILG/8,Sookie St. James,Gilmore Girls
+GILG/9,Kirk Gleason,Gilmore Girls
+GILG/10,Paris Geller,Gilmore Girls
+GILG/11,Miss Patty,Gilmore Girls
+GILG/12,Dean Forester,Gilmore Girls
+GILG/13,Logan Huntzberger,Gilmore Girls
+GILG/14,Jackson Belleville,Gilmore Girls
+GILG/15,Taylor Doose,Gilmore Girls
+GOG/1,Serena van der Woodsen,Gossip Girl
+GOG/2,Blair Waldorf,Gossip Girl
+GOG/3,Dan Humphrey,Gossip Girl
+GOG/4,Nate Archibald,Gossip Girl
+GOG/5,Chuck Bass,Gossip Girl
+GOG/6,Lily van der Woodsen,Gossip Girl
+GOG/7,Rufus Humphrey,Gossip Girl
+GOG/8,Jenny Humphrey,Gossip Girl
+GOG/9,Vanessa Abrams,Gossip Girl
+GOG/10,Dorota Kishlovsky,Gossip Girl
+SLP/1,Pat Solitano,Silver Linings Playbook
+SLP/2,Tiffany Maxwell,Silver Linings Playbook
+BEAR/1,Carmen Berzatto,The Bear
+BEAR/2,Sydney Adamu,The Bear
+BEAR/3,Richard Jerimovich,The Bear
+BEAR/4,Marcus,The Bear
+BEAR/5,Tina,The Bear
+BEAR/6,Natalie Berzatto,The Bear
+BEAR/7,Neil Fak,The Bear
+BEAR/8,Ebraheim,The Bear
+BEAR/9,Gary Woods,The Bear
+BEAR/10,Manny,The Bear
+SLS/1,Sam Baldwin,Sleepless in Seattle
+SLS/2,Annie Reed,Sleepless in Seattle
+MLP/1,Applejack,My Little Pony: Friendship Is Magic
+MLP/2,Twilight Sparkle,My Little Pony: Friendship Is Magic
+MLP/3,Rarity,My Little Pony: Friendship Is Magic
+MLP/4,Pinkie Pie,My Little Pony: Friendship Is Magic
+MLP/5,Spike,My Little Pony: Friendship Is Magic
+MLP/6,Princess Celestia,My Little Pony: Friendship Is Magic
+GOT/1,Jon Snow,Game of Thrones
+GOT/2,Tyrion Lannister,Game of Thrones
+GOT/3,Daenerys Targaryen,Game of Thrones
+GOT/4,Sansa Stark,Game of Thrones
+GOT/5,Arya Stark,Game of Thrones
+GOT/6,Jaime Lannister,Game of Thrones
+GOT/7,Samwell Tarly,Game of Thrones
+GOT/8,Jorah Mormont,Game of Thrones
+GOT/9,Theon Greyjoy,Game of Thrones
+GOT/10,Petyr Baelish,Game of Thrones
+GOT/11,Davos Seaworth,Game of Thrones
+GOT/12,Eddard Stark,Game of Thrones
+GOT/13,Brandon Stark,Game of Thrones
+GOT/14,Brienne of Tarth,Game of Thrones
+GOT/15,Sandor Clegane,Game of Thrones
+GOT/16,Varys,Game of Thrones
+GOT/17,Catelyn Stark,Game of Thrones
+GOT/18,Tywin Lannister,Game of Thrones
+GOT/19,Margaery Tyrell,Game of Thrones
+GOT/20,Robb Stark,Game of Thrones
+GOT/21,Bronn,Game of Thrones
+GOT/22,Stannis Baratheon,Game of Thrones
+GOT/23,Joffrey Baratheon,Game of Thrones
+GOT/24,Melisandre,Game of Thrones
+GOT/25,Olenna Tyrell,Game of Thrones
+GOT/26,Ygritte,Game of Thrones
+GOT/27,Cersei Lannister,Game of Thrones
+GOT/28,Shae,Game of Thrones
+GOT/29,Oberyn Martell,Game of Thrones
+GOT/30,Asha Greyjoy,Game of Thrones
+MCB/1,Macbeth,Macbeth
+MCB/2,Lady Macbeth,Macbeth
+CITW/1,Dana Polk,The Cabin in the Woods
+CITW/2,Curt Vaughan,The Cabin in the Woods
+CITW/3,Jules Louden,The Cabin in the Woods
+CITW/4,Marty Mikalski,The Cabin in the Woods
+CITW/5,Holden McCrea,The Cabin in the Woods
+CITW/6,Steve Hadley,The Cabin in the Woods
+QG/1,Beth Harmon,The Queen's Gambit
+GIGE/1,Georgia Miller,Ginny & Georgia
+GIGE/2,Ginny Miller,Ginny & Georgia
+GIGE/3,Marcus Baker,Ginny & Georgia
+GIGE/4,Maxine Baker,Ginny & Georgia
+GIGE/5,Abby Littman,Ginny & Georgia
+GIGE/6,Norah,Ginny & Georgia
+GIGE/7,Austin Miller,Ginny & Georgia
+GIGE/8,Mayor Paul Randolph,Ginny & Georgia
+GIGE/9,Joe,Ginny & Georgia
+GIGE/10,Ellen Baker,Ginny & Georgia
+GIGE/11,Hunter Chen,Ginny & Georgia
+GIGE/12,Nick Throop,Ginny & Georgia
+GIGE/13,Cynthia Fuller,Ginny & Georgia
+GIGE/14,PI Gabriel Cordova,Ginny & Georgia
+GIGE/15,Matt Press,Ginny & Georgia
+MCU/1,Tony Stark,Marvel Cinematic Universe
+MCU/2,Captain America,Marvel Cinematic Universe
+MCU/3,Black Widow,Marvel Cinematic Universe
+MCU/4,Bruce Banner,Marvel Cinematic Universe
+MCU/5,Captain Marvel,Marvel Cinematic Universe
+MCU/6,Thor,Marvel Cinematic Universe
+MCU/7,Nick Fury,Marvel Cinematic Universe
+MCU/8,Dr. Strange,Marvel Cinematic Universe
+MCU/9,Black Panther,Marvel Cinematic Universe
+MCU/10,Gamora,Marvel Cinematic Universe
+MCU/11,Thanos,Marvel Cinematic Universe
+MCU/12,Peggy Carter,Marvel Cinematic Universe
+MCU/13,Loki,Marvel Cinematic Universe
+MCU/14,Hawkeye,Marvel Cinematic Universe
+MCU/15,Peter Jason Quill,Marvel Cinematic Universe
+NRT/1,Naruto Uzumaki,Naruto
+NRT/2,Sasuke Uchiha,Naruto
+NRT/3,Sakura Haruno,Naruto
+NRT/4,Kakashi Hatake,Naruto
+NRT/5,Shikamaru Nara,Naruto
+WE/1,Wynonna Earp,Wynonna Earp
+WE/2,Doc Holliday,Wynonna Earp
+WE/3,Waverly Earp,Wynonna Earp
+WE/4,Nicole Haught,Wynonna Earp
+WE/5,Jeremy Chetri,Wynonna Earp
+WD/1,Rick Grimes,The Walking Dead
+WD/2,Shane Walsh,The Walking Dead
+WD/3,Lori Grimes,The Walking Dead
+WD/4,Andrea,The Walking Dead
+WD/5,Dale Horvath,The Walking Dead
+WD/6,Glenn Rhee,The Walking Dead
+WD/7,Carl Grimes,The Walking Dead
+WD/8,Daryl Dixon,The Walking Dead
+WD/9,Carol Peletier,The Walking Dead
+WD/10,Merle Dixon,The Walking Dead
+WC/1,Neal Caffrey,White Collar
+WC/2,Peter Burke,White Collar
+WC/3,Mozzie,White Collar
+WC/4,Elizabeth Burke,White Collar
+WC/5,Clinton Jones,White Collar
+WC/6,Diana Barrigan,White Collar
+WO/1,Dorothy Gale,The Wizard of Oz
+WO/2,The Wizard of Oz,The Wizard of Oz
+WO/3,The Scarecrow,The Wizard of Oz
+WO/4,The Tin Man,The Wizard of Oz
+WO/5,The Cowardly Lion,The Wizard of Oz
+WO/6,The Wicked Witch of the West,The Wizard of Oz
+JV/1,Jane Villanueva,Jane the Virgin
+JV/2,Xiomara Villanueva,Jane the Virgin
+JV/3,Petra Solano,Jane the Virgin
+JV/4,Alba Villanueva,Jane the Virgin
+JV/5,Rogelio De La Vega,Jane the Virgin
+JV/6,Rafael Solano,Jane the Virgin
+JW/1,John Wick,John Wick
+JP/1,Dr. Alan Grant,Jurassic Park
+JP/2,Dr. Ellie Sattler,Jurassic Park
+JP/3,Dr. Ian Malcolm,Jurassic Park
+JP/4,John Hammond,Jurassic Park
+JP/5,Ray Arnold,Jurassic Park
+JP/6,Dennis Nedry,Jurassic Park
+GONEG/1,Nick Dunne,Gone Girl
+GONEG/2,Amy Elliott Dunne,Gone Girl
+GONEG/3,Margo Dunne,Gone Girl
+WW/1,Josiah Bartlet,The West Wing
+WW/2,Leo McGarry,The West Wing
+WW/3,Josh Lyman,The West Wing
+WW/4,Toby Ziegler,The West Wing
+WW/5,Sam Seaborn,The West Wing
+WW/6,C. J. Cregg,The West Wing
+WW/7,Charlie Young,The West Wing
+WW/8,Donna Moss,The West Wing
+WW/9,Abbey Bartlet,The West Wing
+WW/10,Joey Lucas,The West Wing
+WV/1,Wanda Maximoff,WandaVision
+WV/2,Vision,WandaVision
+WV/3,Agatha Harkness,WandaVision
+WT/1,Moiraine Damodred,Wheel of Time
+WT/2,Nynaeve al'Meara,Wheel of Time
+WT/3,Egwene al'Vere,Wheel of Time
+WT/4,Rand al'Thor,Wheel of Time
+WT/5,Perrin Aybara,Wheel of Time
+WT/6,Mat Cauthon,Wheel of Time
+EXP/1,Jim Holden,The Expanse
+EXP/2,Naomi Nagata,The Expanse
+EXP/3,Amos Burton,The Expanse
+EXP/4,Chrisjen Avasarala,The Expanse
+EXP/5,Alex Kamal,The Expanse
+EXP/6,Bobbie Draper,The Expanse
+JE/1,Jane Eyre,Jane Eyre
+JE/2,Edward Fairfax Rochester,Jane Eyre
+JB/1,Jennifer Check,Jennifer's Body
+JB/2,Anita 'Needy' Lesnicki,Jennifer's Body
+JB/3,Chip Dove,Jennifer's Body
+CYE/1,Larry David,Curb Your Enthusiasm
+CYE/2,Jeff Greene,Curb Your Enthusiasm
+CYE/3,Cheryl David,Curb Your Enthusiasm
+HSM/1,Troy Bolton,High School Musical
+HSM/2,Gabriella Montez,High School Musical
+HSM/3,Sharpay Evans,High School Musical
+HSM/4,Ryan Evans,High School Musical
+HSM/5,Chad Danforth,High School Musical
+HSM/6,Taylor McKessie,High School Musical
+BM/1,Ennis Del Mar,Brokeback Mountain
+BM/2,Jack Twist,Brokeback Mountain
+HAM/1,Alexander Hamilton,Hamilton
+HAM/2,Eliza Hamilton,Hamilton
+HAM/3,Aaron Burr,Hamilton
+HAM/4,Angelica Schuyler,Hamilton
+HAM/5,George Washington,Hamilton
+HAM/6,King George III,Hamilton
+H/1,Dr. Gregory House,"House, M.D."
+H/2,Dr. Lisa Cuddy,"House, M.D."
+H/3,Dr. James Wilson,"House, M.D."
+H/4,Dr. Eric Foreman,"House, M.D."
+H/5,Dr. Robert Chase,"House, M.D."
+H/6,Dr. Allison Cameron,"House, M.D."
+CMYC/1,Frank Abagnale,Catch Me If You Can
+CMYC/2,Carl Hanratty,Catch Me If You Can
+THM/1,Charlie Harper,Two and Half Men
+THM/2,Alan Harper,Two and Half Men
+THM/3,Jake Harper,Two and Half Men
+THM/4,Berta,Two and Half Men
+THM/5,Evelyn Harper,Two and Half Men
+THM/6,Judith Harper-Melnick,Two and Half Men
+F451/1,Guy Montag,Fahrenheit 451
+F451/2,Linda Montag,Fahrenheit 451
+F451/3,Clarisse McClellan,Fahrenheit 451
+BT/1,Holly Golightly,Breakfast at Tiffany's
+BT/2,Paul Varjak,Breakfast at Tiffany's
+LOTR/1,Frodo Baggins,Lord of the Rings
+LOTR/2,Aragorn,Lord of the Rings
+LOTR/3,Boromir,Lord of the Rings
+LOTR/4,Merry Brandybuck,Lord of the Rings
+LOTR/5,Samwise Gamgee,Lord of the Rings
+LOTR/6,Gandalf,Lord of the Rings
+LOTR/7,Gimli,Lord of the Rings
+LOTR/8,Legolas,Lord of the Rings
+LOTR/9,Pippin Took,Lord of the Rings
+LOTR/10,Gollum,Lord of the Rings
+CRA/1,Rachel Chu,Crazy Rich Asians
+CRA/2,Nick Young,Crazy Rich Asians
+CRA/3,Eleanor Sung-Young,Crazy Rich Asians
+CRA/4,Goh Peik Lin,Crazy Rich Asians
+CRA/5,Astrid Leong-Teo,Crazy Rich Asians
+CRA/6,Colin Khoo,Crazy Rich Asians
+PR/1,Leslie Knope,Parks and Recreation
+PR/2,Ann Perkins,Parks and Recreation
+PR/3,Mark Brendanawicz,Parks and Recreation
+PR/4,Tom Haverford,Parks and Recreation
+PR/5,Ron Swanson,Parks and Recreation
+PR/6,April Ludgate,Parks and Recreation
+PR/7,Jerry Gergich,Parks and Recreation
+PR/8,Donna Meagle,Parks and Recreation
+PR/9,Ben Wyatt,Parks and Recreation
+PR/10,Chris Traeger,Parks and Recreation
+PP/1,Mr. Darcy,Pride and Prejudice
+PP/2,Elizabeth Bennet,Pride and Prejudice
+PP/3,Mr. William Collins,Pride and Prejudice
+PP/4,George Wickham,Pride and Prejudice
+PP/5,Charles Bingley,Pride and Prejudice
+PP/6,Georgiana Darcy,Pride and Prejudice
+PP/7,Lydia Bennet,Pride and Prejudice
+PP/8,Jane Bennet,Pride and Prejudice
+PP/9,Mrs. Bennet,Pride and Prejudice
+PP/10,Lady Catherine de Bourgh,Pride and Prejudice
+STIG/1,Rintarou Okabe,SteinsGate
+STIG/2,Kurisu Makise,SteinsGate
+STIG/3,Mayuri Shiina,SteinsGate
+STIG/4,Itaru Hashida,SteinsGate
+STIG/5,Suzuha Amane,SteinsGate
+PB/1,Lincoln Burrows,Prison Break
+PB/2,Michael Scofield,Prison Break
+PB/3,Veronica Donovan,Prison Break
+PB/4,Fernando Sucre,Prison Break
+PB/5,"Lincoln 'L.J.' Burrows, Jr.",Prison Break
+PB/6,Brad Bellick,Prison Break
+PB/7,Theodore 'T-Bag' Bagwell,Prison Break
+PB/8,Sara Tancredi,Prison Break
+PB/9,Benjamin Miles 'C-Note' Franklin,Prison Break
+PB/10,John Abruzzi,Prison Break
+PC/1,Jack Sparrow,Pirates of the Caribbean
+PC/2,Hector Barbossa,Pirates of the Caribbean
+PC/3,Joshamee Gibbs,Pirates of the Caribbean
+PC/4,Will Turner,Pirates of the Caribbean
+PC/5,Elizabeth Swann,Pirates of the Caribbean
+PC/6,James Norrington,Pirates of the Caribbean
+PA/1,Jonathan 'Gabe' Gabriel,Penny Arcade
+PA/2,Tycho Brahe,Penny Arcade
+PF/1,Vincent Vega,Pulp Fiction
+PF/2,Jules Winnfield,Pulp Fiction
+PF/3,Mia Wallace,Pulp Fiction
+PF/4,Ringo,Pulp Fiction
+PF/5,Marsellus Wallace,Pulp Fiction
+PF/6,Butch Coolidge,Pulp Fiction
+JUW/1,Owen Grady,Jurassic World
+JUW/2,Claire Dearing,Jurassic World
+PK/1,Ash Ketchum,Pokemon
+PK/2,Misty,Pokemon
+PK/3,Brock,Pokemon
+PK/4,Professor Oak,Pokemon
+PK/5,Jessie,Pokemon
+C/1,Jeff Winger,Community
+C/2,Britta Perry,Community
+C/3,Abed Nadir,Community
+C/4,Troy Barnes,Community
+C/5,Annie Edison,Community
+C/6,Shirley Bennett,Community
+C/7,Pierce Hawthorne,Community
+C/8,Craig Pelton,Community
+C/9,Ben Chang,Community
+C/10,Ian Duncan,Community
+FOS/1,Hazel Grace Lancaster,The Fault in Our Stars
+FOS/2,Augustus 'Gus' Waters,The Fault in Our Stars
+MHC/1,Juliana Crain,The Man in the High Castle
+MHC/2,Inspector Kido,The Man in the High Castle
+MHC/3,John Smith,The Man in the High Castle
+EFW/1,Alyssa,The End of the F***ing World
+EFW/2,James,The End of the F***ing World
+S/1,Homer Simpson,The Simpsons
+S/2,Bart Simpson,The Simpsons
+S/3,Marge Simpson,The Simpsons
+S/4,Lisa Simpson,The Simpsons
+S/5,Apu Nahasapeemapetilon,The Simpsons
+S/6,Mr. Burns,The Simpsons
+S/7,Ned Flanders,The Simpsons
+S/8,Milhouse Van Houten,The Simpsons
+S/9,Moe Szyslak,The Simpsons
+S/10,Nelson Muntz,The Simpsons
+S/11,Krusty the Clown,The Simpsons
+S/12,Edna Krabappel,The Simpsons
+S/13,Waylon Smithers,The Simpsons
+S/14,Barney Gumble,The Simpsons
+S/15,Principal Skinner,The Simpsons
+CSIV/1,Maxine Roby,CSI: Vegas
+CSIV/2,Josh Folsom,CSI: Vegas
+CSIV/3,Allie Rajan,CSI: Vegas
+OPP/1,J. Robert Oppenheimer,Oppenheimer
+OPP/2,Kitty Oppenheimer,Oppenheimer
+OPP/3,Leslie Groves,Oppenheimer
+KPA/1,Noa,Kingdom of the Planet of the Apes
+KPA/2,Mae,Kingdom of the Planet of the Apes
+MOR/1,Satine,Moulin Rouge!
+MOR/2,Christian,Moulin Rouge!
+RS/1,Calvin Weir-Fields,Ruby Sparks
+RS/2,Ruby Tiffany Sparks,Ruby Sparks
+PSY/1,Shawn Spencer,Psych
+PSY/2,Burton Guster,Psych
+PSY/3,Carlton Lassiter,Psych
+PSY/4,Juliet O'Hara,Psych
+PSY/5,Henry Spencer,Psych
+PSY/6,Karen Vick,Psych
+OPM/1,Saitama,One Punch Man
+OPM/2,Genos,One Punch Man
+OPM/3,Mumen Rider,One Punch Man
+HNB/1,Will Graham,Hannibal
+HNB/2,Dr. Hannibal Lecter,Hannibal
+HNB/3,Dr. Alana Bloom,Hannibal
+HNB/4,Jack Crawford,Hannibal
+HNB/5,Jimmy Price,Hannibal
+HNB/6,Brian Zeller,Hannibal
+HNB/7,Dr. Bedelia Du Maurier,Hannibal
+HNB/8,Beverly Katz,Hannibal
+HNB/9,Abigail Hobbs,Hannibal
+HNB/10,Freddie Lounds,Hannibal
+FSG/1,Anastasia Steele,Fifty Shades of Grey
+FSG/2,Christian Grey,Fifty Shades of Grey
+GWH/1,Will Hunting,Good Will Hunting
+GWH/2,Skylar,Good Will Hunting
+GWH/3,Dr. Sean Maguire,Good Will Hunting
+DVC/1,Robert Langdon,The Da Vinci Code
+DVC/2,Sophie Neveu,The Da Vinci Code
+DVC/3,Leigh Teabing,The Da Vinci Code
+GWW/1,Scarlett O'Hara,Gone With the Wind
+GWW/2,Rhett Butler,Gone With the Wind
+GWW/3,Melanie Hamilton,Gone With the Wind
+GWW/4,Ashley Wilkes,Gone With the Wind
+GWW/5,India Wilkes,Gone With the Wind
+GWW/6,Mammy,Gone With the Wind
+AFTL/1,Tony Johnson,After Life
+AFTL/2,Matt Braden,After Life
+AFTL/3,Lenny,After Life
+AFTL/4,Kath,After Life
+AFTL/5,Lisa Johnson,After Life
+AFTL/6,Emma,After Life
+BCS/1,Jimmy McGill,Better Call Saul
+BCS/2,Mike Ehrmantraut,Better Call Saul
+BCS/3,Kim Wexler,Better Call Saul
+BCS/4,Howard Hamlin,Better Call Saul
+BCS/5,Nacho Varga,Better Call Saul
+BCS/6,Chuck McGill,Better Call Saul
+COCO/1,Miguel,Coco
+COCO/2,Hector,Coco
+COCO/3,Ernesto de la Cruz,Coco
+COCO/4,Mama Imelda,Coco
+COCO/5,Mama Coco,Coco
+CK/1,Amanda LaRusso,Cobra Kai
+CK/2,Samantha LaRusso,Cobra Kai
+CK/3,Robby Keene,Cobra Kai
+CK/4,Daniel LaRusso,Cobra Kai
+CK/5,Miguel Diaz,Cobra Kai
+CK/6,Johnny Lawrence,Cobra Kai
+HGAWM/1,Annalise Keating,How To Get Away With Murder
+HGAWM/2,Nate Lahey,How To Get Away With Murder
+HGAWM/3,Connor Walsh,How To Get Away With Murder
+HGAWM/4,Michaela Pratt,How To Get Away With Murder
+HGAWM/5,Asher Millstone,How To Get Away With Murder
+HGAWM/6,Frank Delfino,How To Get Away With Murder
+HGAWM/7,Bonnie Winterbottom,How To Get Away With Murder
+HGAWM/8,Oliver Hampton,How To Get Away With Murder
+HGAWM/9,Laurel Castillo,How To Get Away With Murder
+HGAWM/10,Wes Gibbins,How To Get Away With Murder
+CH/1,Calvin,Calvin and Hobbes
+CH/2,Hobbes,Calvin and Hobbes
+CH/3,Calvin's dad,Calvin and Hobbes
+CH/4,Calvin's mom,Calvin and Hobbes
+CH/5,Susie Derkins,Calvin and Hobbes
+CM/1,Dr. Spencer Reid,Criminal Minds
+CM/2,Penelope Garcia,Criminal Minds
+CM/3,Jennifer Jareau,Criminal Minds
+CM/4,David Rossi,Criminal Minds
+CM/5,Aaron Hotchner,Criminal Minds
+CM/6,Derek Morgan,Criminal Minds
+CB/1,Rick Blaine,Casablanca
+CB/2,Ilsa Lund,Casablanca
+CB/3,Victor Laszlo,Casablanca
+CF/1,Matthew Casey,Chicago Fire
+CF/2,Kelly Severide,Chicago Fire
+CF/3,Wallace Boden,Chicago Fire
+CF/4,Joe Cruz,Chicago Fire
+CF/5,Randall McHolland,Chicago Fire
+CF/6,Capp,Chicago Fire
+DUNE/1,Paul Atreides,Dune
+DUNE/2,Lady Jessica,Dune
+DUNE/3,Duke Leto Atreides,Dune
+DUNE/4,Baron Vladimir Harkonnen,Dune
+DUNE/5,Thufir Hawat,Dune
+DUNE/6,Chani,Dune
+R30/1,Liz Lemon,30 Rock
+R30/2,Tracy Jordan,30 Rock
+R30/3,Kenneth Parcell,30 Rock
+R30/4,Pete Hornberger,30 Rock
+R30/5,Jack Donaghy,30 Rock
+R30/6,Jenna Maroney,30 Rock
+ASNP/1,Chris Kyle,American Sniper
+ASNP/2,Taya Kyle,American Sniper
+PLF/1,Marianne,Portrait of a Lady on Fire
+PLF/2,Heloise,Portrait of a Lady on Fire
+MMFR/1,Max Rockatansky,Mad Max: Fury Road
+MMFR/2,Imperator Furiosa,Mad Max: Fury Road
+MMFR/3,Nux,Mad Max: Fury Road
+PLL/1,Spencer Hastings,Pretty Little Liars
+PLL/2,Hanna Marin,Pretty Little Liars
+PLL/3,Aria Montgomery,Pretty Little Liars
+PLL/4,Emily Fields,Pretty Little Liars
+PLL/5,Alison DiLaurentis,Pretty Little Liars
+PLL/6,Ezra Fitz,Pretty Little Liars
+PLL/7,Ashley Marin,Pretty Little Liars
+PLL/8,Mona Vanderwaal,Pretty Little Liars
+PLL/9,Caleb Rivers,Pretty Little Liars
+PLL/10,Toby Cavanaugh,Pretty Little Liars
+WSS/1,Maria,West Side Story
+WSS/2,Tony,West Side Story
+WSS/3,Riff,West Side Story
+WSS/4,Anita,West Side Story
+WSS/5,Lieutenant Schrank,West Side Story
+WSW/1,Dolores Abernathy,Westworld
+WSW/2,Maeve Millay,Westworld
+WSW/3,Bernard Lowe,Westworld
+WSW/4,Teddy Flood,Westworld
+WSW/5,Ashley Stubbs,Westworld
+WSW/6,Lee Sizemore,Westworld
+WSW/7,Elsie Hughes,Westworld
+WSW/8,Man in Black,Westworld
+WSW/9,Robert Ford,Westworld
+WSW/10,Theresa Cullen,Westworld
+WSW/11,Charlotte Hale,Westworld
+WSW/12,Akecheta,Westworld
+WSW/13,Clementine Pennyfeather,Westworld
+WSW/14,Logan Delos,Westworld
+WSW/15,Felix Lutz,Westworld
+FHU/1,Roderick Usher,The Fall of the House of Usher
+FHU/2,Madeline Usher,The Fall of the House of Usher
+FHU/3,Verna,The Fall of the House of Usher
+DIV/1,Tris Prior,Divergent
+DIV/2,Tobias 'Four' Eaton,Divergent
+DIV/3,Caleb Prior,Divergent
+ARCH/1,Sterling Archer,Archer
+ARCH/2,Malory Archer,Archer
+ARCH/3,Cyril Figgis,Archer
+ARCH/4,Cheryl Tunt,Archer
+ARCH/5,Pamela Poovey,Archer
+ARCH/6,Lana Kane,Archer
+MU/1,Mulan,Mulan
+MU/2,Mushu,Mulan
+MU/3,Li Shang,Mulan
+MU/4,Yao,Mulan
+MU/5,Chien-Po,Mulan
+MU/6,Ling,Mulan
+FAR/1,John Crichton,Farscape
+FAR/2,Aeryn Sun,Farscape
+FAR/3,Ka D'Argo,Farscape
+FAR/4,Dominar Rygel XVI,Farscape
+FAR/5,Chiana,Farscape
+FAR/6,Scorpius,Farscape
+CBP/1,Spike Spiegel,Cowboy Bebop
+CBP/2,Jet Black,Cowboy Bebop
+CBP/3,Faye Valentine,Cowboy Bebop
+CBP/4,Ed,Cowboy Bebop
+CBP/5,Vicious,Cowboy Bebop
+CBP/6,Julia,Cowboy Bebop
+SOP/1,Tony Soprano,The Sopranos
+SOP/2,Dr. Jennifer Melfi,The Sopranos
+SOP/3,Carmela Soprano,The Sopranos
+SOP/4,Christopher Moltisanti,The Sopranos
+SOP/5,Junior Soprano,The Sopranos
+SOP/6,Silvio Dante,The Sopranos
+SOP/7,Paulie 'Walnuts' Gualtieri,The Sopranos
+SOP/8,A.J. Soprano,The Sopranos
+SOP/9,Meadow Soprano,The Sopranos
+SOP/10,Janice Soprano,The Sopranos
+FAB/1,Edward Elric,Fullmetal Alchemist: Brotherhood
+FAB/2,Alphonse Elric,Fullmetal Alchemist: Brotherhood
+FAB/3,Roy Mustang,Fullmetal Alchemist: Brotherhood
+FAB/4,Riza Hawkeye,Fullmetal Alchemist: Brotherhood
+FAB/5,Scar,Fullmetal Alchemist: Brotherhood
+FAB/6,Denny Brosh,Fullmetal Alchemist: Brotherhood
+VD/1,Stefan Salvatore,The Vampire Diaries
+VD/2,Damon Salvatore,The Vampire Diaries
+VD/3,Bonnie Bennett,The Vampire Diaries
+VD/4,Caroline Forbes,The Vampire Diaries
+VD/5,Matt Donovan,The Vampire Diaries
+VD/6,Elena Gilbert,The Vampire Diaries
+I/1,Dom Cobb,Inception
+I/2,Arthur,Inception
+I/3,Ariadne,Inception
+I/4,Mal Cobb,Inception
+I/5,Mr. Saito,Inception
+I/6,Robert Fischer,Inception
+VK/1,Lagertha,Vikings
+VK/2,Bjorn Lothbrok,Vikings
+VK/3,Floki,Vikings
+VK/4,Torvi,Vikings
+VK/5,Ragnar Lothbrok,Vikings
+VK/6,Rollo Sigurdsson,Vikings
+VK/7,Ivar Ragnarsson,Vikings
+VK/8,Harald Finehair,Vikings
+VK/9,Ubbe Ragnarsson,Vikings
+VK/10,Judith of Northumbria,Vikings
+VR/1,Melinda Monroe,Virgin River
+VR/2,Jack Sheridan,Virgin River
+VR/3,John 'Preacher' Middleton,Virgin River
+Y/1,John Dutton,Yellowstone
+Y/2,Kayce Dutton,Yellowstone
+Y/3,Beth Dutton,Yellowstone
+Y/4,Jamie Dutton,Yellowstone
+Y/5,Rip Wheeler,Yellowstone
+Y/6,Monica Dutton,Yellowstone
+Y/7,Jimmy Hurdstrom,Yellowstone
+Y/8,Thomas Rainwater,Yellowstone
+Y/9,Lloyd,Yellowstone
+Y/10,Colby,Yellowstone
+YOU/1,Joe Goldberg,You
+YOU/2,Love Quinn,You
+YOU/3,Guinevere Beck,You
+ID/1,Steven Hiller,Independence Day
+ID/2,Thomas J. Whitmore,Independence Day
+ID/3,David Levinson,Independence Day
+ARW/1,John Diggle,Arrow
+ARW/2,Oliver Queen,Arrow
+ARW/3,Felicity Smoak,Arrow
+ARW/4,Laurel Lance,Arrow
+ARW/5,Quentin Lance,Arrow
+ARW/6,Thea Queen,Arrow
+ARW/7,Roy Harper,Arrow
+ARW/8,Rene Ramirez,Arrow
+ARW/9,Curtis Holt,Arrow
+ARW/10,Malcolm Merlyn,Arrow
+ARC/1,Vi,Arcane
+ARC/2,Powder,Arcane
+ARC/3,Jayce Talis,Arcane
+ARC/4,Caitlyn Kiramman,Arcane
+ARC/5,Viktor,Arcane
+ARC/6,Silco,Arcane
+ARC/7,Mel Medarda,Arcane
+ARC/8,Cecil B. Heimerdinger,Arcane
+ARC/9,Vander,Arcane
+ARC/10,Ekko,Arcane
+SDB/1,Alina Starkov,Shadow and Bone
+SDB/2,Malyen Oretsev,Shadow and Bone
+SDB/3,Kaz Brekker,Shadow and Bone
+SDB/4,Inej Ghafa,Shadow and Bone
+SDB/5,Jesper Fahey,Shadow and Bone
+SDB/6,General Kirigan,Shadow and Bone
+TW/1,Cedric Daniels,The Wire
+TW/2,Jimmy McNulty,The Wire
+TW/3,Kima Greggs,The Wire
+TW/4,Lester Freamon,The Wire
+TW/5,Bunk Moreland,The Wire
+TW/6,Thomas 'Herc' Hauk,The Wire
+TW/7,Ellis Carver,The Wire
+TW/8,Reginald 'Bubbles' Cousins,The Wire
+TW/9,William Rawls,The Wire
+TW/10,Roland 'Prez' Pryzbylewski,The Wire
+TW/11,Rhonda Pearlman,The Wire
+TW/12,Omar Little,The Wire
+TW/13,Ervin Burrell,The Wire
+TW/14,Preston 'Bodie' Broadus,The Wire
+TW/15,Russell 'Stringer' Bell,The Wire
+TW/16,Tommy Carcetti,The Wire
+TW/17,Avon Barksdale,The Wire
+TW/18,Chris Partlow,The Wire
+TW/19,Norman Wilson,The Wire
+TW/20,Michael Lee,The Wire
+TW/21,Maurice Levy,The Wire
+TW/22,Beatrice 'Beadie' Russell,The Wire
+TW/23,Dennis 'Cutty' Wise,The Wire
+TW/24,D'Angelo Barksdale,The Wire
+TW/25,Clay Davis,The Wire
+TW/26,Clarence Royce,The Wire
+TW/27,Spiros 'Vondas' Vondopoulos,The Wire
+TW/28,Frank Sobotka,The Wire
+TW/29,Ziggy Sobotka,The Wire
+TW/30,Nick Sobotka,The Wire
+BD/1,Baby,Baby Driver
+BD/2,Doc,Baby Driver
+BD/3,Debora,Baby Driver
+NCIS/1,Leroy Jethro Gibbs,NCIS
+NCIS/2,Anthony DiNozzo,NCIS
+NCIS/3,Abby Sciuto,NCIS
+NCIS/4,Donald Mallard,NCIS
+NCIS/5,Timothy McGee,NCIS
+NCIS/6,Jimmy Palmer,NCIS
+BA/1,Barbie,Barbie
+BA/2,Ken,Barbie
+BB/1,Walter White,Breaking Bad
+BB/2,Skyler White,Breaking Bad
+BB/3,Jesse Pinkman,Breaking Bad
+BB/4,Hank Schrader,Breaking Bad
+BB/5,Marie Schrader,Breaking Bad
+BB/6,Flynn White,Breaking Bad
+BB/7,Saul Goodman,Breaking Bad
+BB/8,Gus Fring,Breaking Bad
+BB/9,Mike Ehrmantraut,Breaking Bad
+BB/10,Jane Margolis,Breaking Bad
+BC/1,John Bender,The Breakfast Club
+BC/2,Claire Standish,The Breakfast Club
+BC/3,Andrew Clark,The Breakfast Club
+BC/4,Brian Johnson,The Breakfast Club
+BC/5,Allison Reynolds,The Breakfast Club
+BC/6,Principal Vernon,The Breakfast Club
+BL/1,Alan Shore,Boston Legal
+BL/2,Denny Crane,Boston Legal
+BL/3,Shirley Schmidt,Boston Legal
+TIU/1,Jack Pearson,This Is Us
+TIU/2,Rebecca Pearson,This Is Us
+TIU/3,Randall Pearson,This Is Us
+TIU/4,Kate Pearson,This Is Us
+TIU/5,Kevin Pearson,This Is Us
+TIU/6,Beth Pearson,This Is Us
+TIU/7,Toby Damon,This Is Us
+TIU/8,William H. 'Shakespeare' Hill,This Is Us
+TIU/9,Miguel Rivas,This Is Us
+TIU/10,Sophie,This Is Us
+BI/1,Jason Bourne,The Bourne Identity
+BI/2,Marie Kreutz,The Bourne Identity
+BI/3,Alexander Conklin,The Bourne Identity
+DARK/1,Jonas Kahnwald,Dark
+DARK/2,Charlotte Doppler,Dark
+DARK/3,Martha Nielsen,Dark
+DARK/4,Hannah Kahnwald,Dark
+DARK/5,Peter Doppler,Dark
+DARK/6,Katharina Nielsen,Dark
+BW/1,Mitch Buchannon,Baywatch
+BW/2,Hobie Buchannon,Baywatch
+BW/3,Michael 'Newmie' Newman,Baywatch
+BW/4,C.J. Parker,Baywatch
+BW/5,Garner Ellerbee,Baywatch
+BW/6,Stephanie Holden,Baywatch
+BR/1,Donny Dunn,Baby Reindeer
+BR/2,Martha Scott,Baby Reindeer
+BR/3,Teri,Baby Reindeer
+BR/4,Greggsy,Baby Reindeer
+BR/5,Gino,Baby Reindeer
+BS/1,Nina Sayers,Black Swan
+BS/2,Lily,Black Swan
+BS/3,Thomas Leroy,Black Swan
+BOB/1,Donald G. Malarkey,Band of Brothers
+BOB/2,Richard D. Winters,Band of Brothers
+BOB/3,Lewis Nixon,Band of Brothers
+BOB/4,Eugene G. Roe,Band of Brothers
+BOB/5,C. Carwood Lipton,Band of Brothers
+BOB/6,Darrell C. (Shifty) Powers,Band of Brothers
+TDPT/1,Billy Costigan,The Departed
+TDPT/2,Colin Sullivan,The Departed
+TDPT/3,Frank Costello,The Departed
+TDPT/4,Sgt. Sean Dignam,The Departed
+TDPT/5,Capt. Oliver Queenan,The Departed
+TDPT/6,Dr. Madolyn Madden,The Departed
+D/1,Dexter Morgan,Dexter
+D/2,Rita Bennett,Dexter
+D/3,Debra Morgan,Dexter
+D/4,James Doakes,Dexter
+D/5,Maria LaGuerta,Dexter
+D/6,Angel Batista,Dexter
+D/7,Harry Morgan,Dexter
+D/8,Vince Masuka,Dexter
+D/9,Thomas Matthews,Dexter
+D/10,Joey Quinn,Dexter
+T/1,Bella Swan,Twilight
+T/2,Edward Cullen,Twilight
+T/3,Jacob Black,Twilight
+T/4,Charlie Swan,Twilight
+T/5,Carlisle Cullen,Twilight
+T/6,Esme Cullen,Twilight
+T/7,Alice Cullen,Twilight
+T/8,Emmett Cullen,Twilight
+T/9,Rosalie Hale,Twilight
+T/10,Jasper Hale,Twilight
+SVU/1,Olivia Benson,Law & Order: SVU
+SVU/2,John Munch,Law & Order: SVU
+SVU/3,Donald Cragen,Law & Order: SVU
+SVU/4,Elliot Stabler,Law & Order: SVU
+SVU/5,Odafin Tutuola,Law & Order: SVU
+SVU/6,Melinda Warner,Law & Order: SVU
+WWCF/1,Willy Wonka,Willy Wonka & the Chocolate Factory
+WWCF/2,Grandpa Joe,Willy Wonka & the Chocolate Factory
+WWCF/3,Charlie Bucket,Willy Wonka & the Chocolate Factory
+BVS/1,Buffy Summers,Buffy the Vampire Slayer
+BVS/2,Xander Harris,Buffy the Vampire Slayer
+BVS/3,Willow Rosenberg,Buffy the Vampire Slayer
+BVS/4,Cordelia Chase,Buffy the Vampire Slayer
+BVS/5,Rupert Giles,Buffy the Vampire Slayer
+BVS/6,Angel,Buffy the Vampire Slayer
+OL/1,Claire Randall,Outlander
+OL/2,Jamie Fraser,Outlander
+OL/3,Murtagh Fraser,Outlander
+OD/1,Odysseus,The Odyssey
+OD/2,Telemachus,The Odyssey
+OD/3,Penelope,The Odyssey
+OB/1,John B,Outer Banks
+OB/2,Sarah Cameron,Outer Banks
+OB/3,Kiara,Outer Banks
+OB/4,Pope,Outer Banks
+OB/5,JJ,Outer Banks
+OB/6,Topper,Outer Banks
+OA/1,Prairie Johnson,The OA
+OA/2,Homer,The OA
+OA/3,Steve Winchell,The OA
+OA/4,Hunter Aloysius Percy,The OA
+OA/5,Buck Vu,The OA
+CXG/1,Rebecca Bunch,Crazy Ex-Girlfriend
+CXG/2,Paula Proctor,Crazy Ex-Girlfriend
+CXG/3,Josh Chan,Crazy Ex-Girlfriend
+CXG/4,Darryl Whitefeather,Crazy Ex-Girlfriend
+CXG/5,Heather Davis,Crazy Ex-Girlfriend
+CXG/6,Valencia Perez,Crazy Ex-Girlfriend
+SQG/1,Seong Gi-hun,Squid Game
+SQG/2,Cho Sang-woo,Squid Game
+SQG/3,Hwang Jun-ho,Squid Game
+SQG/4,Kang Sae-byeok,Squid Game
+SQG/5,Oh Il-nam,Squid Game
+SQG/6,Han Mi-nyeo,Squid Game
+BATB/1,Belle,Beauty and the Beast
+BATB/2,Gaston,Beauty and the Beast
+BATB/3,Maurice,Beauty and the Beast
+BATB/4,Cogsworth,Beauty and the Beast
+BATB/5,Lumiere,Beauty and the Beast
+BATB/6,Beast,Beauty and the Beast
+HP/1,Ron Weasley,Harry Potter
+HP/2,Harry Potter,Harry Potter
+HP/3,Hermione Granger,Harry Potter
+HP/4,Rubeus Hagrid,Harry Potter
+HP/5,Albus Dumbledore,Harry Potter
+HP/6,Minerva McGonagall,Harry Potter
+HP/7,Severus Snape,Harry Potter
+HP/8,Ginny Weasley,Harry Potter
+HP/9,Luna Lovegood,Harry Potter
+HP/10,Draco Malfoy,Harry Potter
+HP/11,Molly Weasley,Harry Potter
+HP/12,Lord Voldemort,Harry Potter
+HP/13,Cho Chang,Harry Potter
+HP/14,Fleur Delacour,Harry Potter
+HP/15,Viktor Krum,Harry Potter
+HP/16,Filius Flitwick,Harry Potter
+HP/17,Horace Slughorn,Harry Potter
+HP/18,George Weasley,Harry Potter
+HP/19,Alastor Moody,Harry Potter
+HP/20,Remus Lupin,Harry Potter
+HP/21,Arthur Weasley,Harry Potter
+HP/22,Cornelius Fudge,Harry Potter
+HP/23,Dolores Umbridge,Harry Potter
+HP/24,Petunia Dursley,Harry Potter
+HP/25,Moaning Myrtle,Harry Potter
+HP/26,Rita Skeeter,Harry Potter
+HP/27,Dobby,Harry Potter
+HP/28,Bellatrix Lestrange,Harry Potter
+HP/29,Nymphadora Tonks,Harry Potter
+HP/30,Sirius Black,Harry Potter
+HT/1,June Osborne,The Handmaid's Tale
+HT/2,Rita,The Handmaid's Tale
+HT/3,Janine Lindo,The Handmaid's Tale
+HT/4,Nick Blaine,The Handmaid's Tale
+HT/5,Serena Joy Waterford,The Handmaid's Tale
+HH/1,Lucifer Morningstar,Hazbin Hotel
+HH/2,Angel Dust,Hazbin Hotel
+HH/3,Alastor,Hazbin Hotel
+HH/4,Sir Pentious,Hazbin Hotel
+HH/5,Charlie Morningstar,Hazbin Hotel
+HO/1,Phil,The Hangover
+HO/2,Stu,The Hangover
+HO/3,Alan,The Hangover
+LKY/1,Nina Locke,Locke & Key
+LKY/2,Tyler Locke,Locke & Key
+LKY/3,Kinsey Locke,Locke & Key
+AE/1,Janine Teagues,Abbott Elementary
+AE/2,Barbara Howard,Abbott Elementary
+AE/3,Melissa Schemmenti,Abbott Elementary
+AE/4,Gregory Eddie,Abbott Elementary
+AE/5,Ava Coleman,Abbott Elementary
+AE/6,Jacob Hill,Abbott Elementary
+HG/1,Katniss Everdeen,The Hunger Games
+HG/2,Peeta Mellark,The Hunger Games
+HG/3,Haymitch Abernathy,The Hunger Games
+HG/4,Effie Trinket,The Hunger Games
+HG/5,Coriolanus Snow,The Hunger Games
+HG/6,Gale Hawthorne,The Hunger Games
+HD/1,Ser Otto Hightower,House of the Dragon
+HD/2,Prince Daemon Targaryen,House of the Dragon
+HD/3,Ser Harrold Westerling,House of the Dragon
+HD/4,Ser Criston Cole,House of the Dragon
+HD/5,Lord Corlys Velaryon,House of the Dragon
+HD/6,Princess Rhaenys Targaryen,House of the Dragon
+HD/7,Queen Rhaenyra Targaryen,House of the Dragon
+HD/8,Lord Larys Strong,House of the Dragon
+HD/9,Queen Alicent Hightower,House of the Dragon
+HD/10,Prince Aemond Targaryen,House of the Dragon
+SCL/1,Hester Prynne,The Scarlet Letter
+AML/1,Amelie Poulain,Amelie
+AML/2,Nino Quincampoix,Amelie
+MNT/1,Patrick Jane,The Mentalist
+MNT/2,Teresa Lisbon,The Mentalist
+MNT/3,Kimball Cho,The Mentalist
+MNT/4,Wayne Rigsby,The Mentalist
+MNT/5,Grace Van Pelt,The Mentalist
+MNT/6,Red John,The Mentalist
+LLL/1,Sebastian Wilder,La La Land
+LLL/2,Mia Dolan,La La Land
+MNF/1,Michaela Stone,Manifest
+MNF/2,Ben Stone,Manifest
+MNF/3,Jared Vasquez,Manifest
+MNF/4,Olive Stone,Manifest
+MNF/5,Saanvi Bahl,Manifest
+PBWF/1,Charlie Kelmeckis,The Perks of Being a Wallflower
+PBWF/2,Sam Button,The Perks of Being a Wallflower
+PBWF/3,Patrick Stewart,The Perks of Being a Wallflower
+BDC/1,Abbi Abrams,Broad City
+BDC/2,Ilana Wexler,Broad City
+BDC/3,Lincoln Rice,Broad City
+BDB/1,Marcus Miles,Bad Boys
+BDB/2,Mike Lowrey,Bad Boys
+M/1,Neo,The Matrix
+M/2,Morpheus,The Matrix
+M/3,Trinity,The Matrix
+M/4,Agent Smith,The Matrix
+M/5,Cypher,The Matrix
+M/6,The Oracle,The Matrix
+O/1,Marty Byrde,Ozark
+O/2,Wendy Byrde,Ozark
+O/3,Charlotte Byrde,Ozark
+O/4,Jonah Byrde,Ozark
+O/5,Ruth Langmore,Ozark
+O/6,Rachel Garrison,Ozark
+O/7,Roy Petty,Ozark
+O/8,Jacob Snell,Ozark
+O/9,Darlene Snell,Ozark
+O/10,Wyatt Langmore,Ozark
+BDS/1,Paul Smecker,The Boondock Saints
+BDS/2,Connor MacManus,The Boondock Saints
+BDS/3,Murphy MacManus,The Boondock Saints
+BDS/4,David Della Rocco,The Boondock Saints
+BDS/5,Don Giuseppe 'Papa Joe' Yakavetta,The Boondock Saints
+TRT/1,Tugg Speedman,Tropic Thunder
+TRT/2,Jeff Portnoy,Tropic Thunder
+TRT/3,Kirk Lazarus,Tropic Thunder
+AS/1,Dagny Taggart,Atlas Shrugged
+AS/2,Henry Rearden,Atlas Shrugged
+AS/3,James Taggart,Atlas Shrugged
+AS/4,John Galt,Atlas Shrugged
+AS/5,Ellis Wyatt,Atlas Shrugged
+AS/6,Francisco d'Anconia,Atlas Shrugged
+SCRUBS/1,John Michael Dorian,Scrubs
+SCRUBS/2,Elliot Reid,Scrubs
+SCRUBS/3,Christopher Turk,Scrubs
+SCRUBS/4,Bob Kelso,Scrubs
+SCRUBS/5,Perry Cox,Scrubs
+SCRUBS/6,Carla Espinosa,Scrubs
+UA/1,Vanya Hargreeves,The Umbrella Academy
+UA/2,Luther Hargreeves,The Umbrella Academy
+UA/3,Diego Hargreeves,The Umbrella Academy
+UA/4,Allison Hargreeves,The Umbrella Academy
+UA/5,Klaus Hargreeves,The Umbrella Academy
+UA/6,Ben Hargreeves,The Umbrella Academy
+SUE/1,Count Olaf,A Series of Unfortunate Events
+SUE/2,Klaus Baudelaire,A Series of Unfortunate Events
+SUE/3,Violet Baudelaire,A Series of Unfortunate Events
+SUC/1,Logan Roy,Succession
+SUC/2,Roman Roy,Succession
+SUC/3,Shiv Roy,Succession
+SUC/4,Kendall Roy,Succession
+SUC/5,Marcia Roy,Succession
+SUC/6,Greg Hirsch,Succession
+SUC/7,Frank Vernon,Succession
+SUC/8,Tom Wambsgans,Succession
+SUC/9,Connor Roy,Succession
+SUC/10,Lawrence Yee,Succession
+NEF/1,Winston Smith,Nineteen Eighty-Four
+NEF/2,O'Brien,Nineteen Eighty-Four
+NEF/3,Julia,Nineteen Eighty-Four
+SUI/1,Harvey Specter,Suits
+SUI/2,Louis Litt,Suits
+SUI/3,Donna Paulsen,Suits
+SUI/4,Mike Ross,Suits
+SUI/5,Rachel Zane,Suits
+SUI/6,Jessica Pearson,Suits
+NES/1,Nancy Thompson,A Nightmare on Elm Street
+NES/2,Donald Thompson,A Nightmare on Elm Street
+NES/3,Freddy Krueger,A Nightmare on Elm Street
+NES/4,Glen Lantz,A Nightmare on Elm Street
+NES/5,Marge Thompson,A Nightmare on Elm Street
+NL/1,Fern,Nomadland
+CCBB/1,Benjamin Button,The Curious Case of Benjamin Button
+CCBB/2,Daisy Fuller,The Curious Case of Benjamin Button
+NG/1,Jess Day,New Girl
+NG/2,Nick Miller,New Girl
+NG/3,Schmidt,New Girl
+NG/4,Cece Parekh,New Girl
+NG/5,Winston Bishop,New Girl
+NP/1,Marianne Sheridan,Normal People
+NP/2,Connell Waldron,Normal People
+ELM/1,Sherlock Holmes,Elementary
+ELM/2,Joan Watson,Elementary
+ELM/3,Marcus Bell,Elementary
+J/1,Martin Brody,Jaws
+J/2,Quint,Jaws
+J/3,Matt Hooper,Jaws
+DIEH/1,John McClane,Die Hard
+DIEH/2,Hans Gruber,Die Hard
+DIEH/3,Holly Gennero-McClane,Die Hard
+ESSM/1,Joel Barish,Eternal Sunshine of the Spotless Mind
+ESSM/2,Clementine Kruczynski,Eternal Sunshine of the Spotless Mind
+ESSM/3,Mary Svevo,Eternal Sunshine of the Spotless Mind
+LEGO/1,Lord Business,The Lego Movie
+LEGO/2,Vitruvius,The Lego Movie
+LEGO/3,Emmet Brickowski,The Lego Movie
+LEGO/4,Wyldstyle,The Lego Movie
+LEGO/5,Batman,The Lego Movie
+TWN/1,Viola,Twelfth Night
+TWN/2,Sebastian,Twelfth Night
+TWN/3,Olivia,Twelfth Night
+TWN/4,Duke Orsino,Twelfth Night
+TWN/5,Malvolio,Twelfth Night
+DAM/1,Patty Hewes,Damages
+DAM/2,Ellen Parsons,Damages
+DAM/3,Tom Shayes,Damages
+TT/1,Jack Dawson,Titanic
+TT/2,Rose DeWitt Bukater,Titanic
+TT/3,Cal Hockley,Titanic
+TS/1,Woody,Toy Story
+TS/2,Buzz Lightyear,Toy Story
+TS/3,Mr. Potato Head,Toy Story
+TS/4,Rex,Toy Story
+TS/5,Bo Peep,Toy Story
+TS/6,Sid Phillips,Toy Story
+TP/1,Dale Cooper,Twin Peaks
+TP/2,Sheriff Truman,Twin Peaks
+TP/3,Shelly Johnson,Twin Peaks
+TP/4,Bobby Briggs,Twin Peaks
+TP/5,Benjamin Horne,Twin Peaks
+TP/6,Audrey Horne,Twin Peaks
+TP/7,Norma Jennings,Twin Peaks
+TP/8,James Hurley,Twin Peaks
+TP/9,Ed Hurley,Twin Peaks
+TP/10,Pete Martell,Twin Peaks
+TP/11,Leland Palmer,Twin Peaks
+TP/12,Josie Packard,Twin Peaks
+TP/13,Catherine Martell,Twin Peaks
+TP/14,Lucy Moran,Twin Peaks
+TP/15,Donna Hayward,Twin Peaks
+TN/1,Noah Calhoun,The Notebook
+TN/2,Allison Hamilton,The Notebook
+TN/3,"Lon Hammond, Jr.",The Notebook
+TO/1,Michael Scott,The Office
+TO/2,Dwight Schrute,The Office
+TO/3,Jim Halpert,The Office
+TO/4,Pam Beesly,The Office
+TO/5,Ryan Howard,The Office
+TO/6,Andy Bernard,The Office
+TO/7,Jan Levinson,The Office
+TO/8,Stanley Hudson,The Office
+TO/9,Kevin Malone,The Office
+TO/10,Meredith Palmer,The Office
+TO/11,Angela Martin,The Office
+TO/12,Phyllis Lapin,The Office
+TO/13,Kelly Kapoor,The Office
+TO/14,Kelly Erin Hannon,The Office
+TO/15,Robert California,The Office
+TL/1,Ted Lasso,Ted Lasso
+TL/2,Rebecca Welton,Ted Lasso
+TL/3,Leslie Higgins,Ted Lasso
+TL/4,Jamie Tartt,Ted Lasso
+TL/5,Roy Kent,Ted Lasso
+TL/6,Coach Beard,Ted Lasso
+TL/7,Nathan Shelley,Ted Lasso
+TL/8,Keeley Jones,Ted Lasso
+TL/9,Dr. Sharon Fieldstone,Ted Lasso
+TL/10,Sam Obisanya,Ted Lasso
+TM/1,Mark Watney,The Martian
+TF/1,Stella Gibson,The Fall
+TF/2,Paul Spector,The Fall
+TF/3,Jim Burns,The Fall
+TD/1,Rust Cohle,True Detective: Season 1
+TD/2,Marty Hart,True Detective: Season 1
+TD/3,Maggie Hart,True Detective: Season 1
+TB/1,Billy Butcher,The Boys
+TB/2,Hughie Campbell,The Boys
+TB/3,Homelander,The Boys
+TB/4,Annie January,The Boys
+TB/5,Queen Maeve,The Boys
+TB/6,A-Train,The Boys
+TB/7,Mother's Milk,The Boys
+TB/8,The Deep,The Boys
+TB/9,Frenchie,The Boys
+TB/10,Kimiko Miyashiro,The Boys
+TB/11,Black Noir,The Boys
+TB/12,Ashley Barrett,The Boys
+TB/13,Madelyn Stillwell,The Boys
+TB/14,Becca Butcher,The Boys
+TB/15,Stormfront,The Boys
+TC/1,Queen Elizabeth II,The Crown
+TC/2,"Philip, Duke of Edinburgh",The Crown
+TA/1,Elizabeth Jennings,The Americans
+TA/2,Philip Jennings,The Americans
+TA/3,Henry Jennings,The Americans
+TA/4,Paige Jennings,The Americans
+TA/5,Stan Beeman,The Americans
+DWP/1,Miranda Priestly,The Devil Wears Prada
+DWP/2,Andrea Sachs,The Devil Wears Prada
+DWP/3,Emily Charlton,The Devil Wears Prada
+AB/1,Lorraine Broughton,Atomic Blonde
+E/1,Drew Baylor,Elizabethtown
+E/2,Claire Colburn,Elizabethtown
+AD/1,Michael Bluth,Arrested Development
+AD/2,Lindsay Bluth Funke,Arrested Development
+AD/3,George Oscar 'Gob' Bluth,Arrested Development
+AD/4,George Michael Bluth,Arrested Development
+AD/5,Maeby Funke,Arrested Development
+AD/6,Buster Bluth,Arrested Development
+AD/7,Tobias Funke,Arrested Development
+AD/8,"George Bluth, Sr.",Arrested Development
+AD/9,Oscar Bluth,Arrested Development
+AD/10,Lucille Bluth,Arrested Development
+SG1/1,Jack O'Neill,Stargate SG-1
+SG1/2,Daniel Jackson,Stargate SG-1
+SG1/3,Samantha Carter,Stargate SG-1
+SG1/4,Teal'c,Stargate SG-1
+SG1/5,George S. Hammond,Stargate SG-1
+SG1/6,Janet Fraiser,Stargate SG-1
+AH/1,Alvy Singer,Annie Hall
+AH/2,Annie Hall,Annie Hall
+AK/1,Princess Anna Karenina,Anna Karenina
+AK/2,Count Alexei Karenin,Anna Karenina
+AK/3,Count Alexei Vronsky,Anna Karenina
+AK/4,Princess Darya 'Dolly' Oblonskaya,Anna Karenina
+AK/5,Prince Stepan 'Stiva' Oblonsky,Anna Karenina
+AK/6,Konstantin 'Kostya' Levin,Anna Karenina
+AK/7,Princess Elizaveta 'Betsy' Tverskaya,Anna Karenina
+AK/8,Princess Ekaterina 'Kitty' Shcherbatskaya,Anna Karenina
+AK/9,Countess Vronskaya,Anna Karenina
+AK/10,Countess Lidia Ivanovna,Anna Karenina
+T2/1,T-800,Terminator 2: Judgement Day
+T2/2,Sarah Connor,Terminator 2: Judgement Day
+T2/3,John Connor,Terminator 2: Judgement Day
+AL/1,Aladdin,Aladdin
+AL/2,Genie,Aladdin
+AL/3,Jasmine,Aladdin
+TND/1,James Bond,Tommorrow Never Dies
+TND/2,M,Tommorrow Never Dies
+TND/3,Q,Tommorrow Never Dies
+TNG/1,Jean-Luc Picard,Star Trek: The Next Generation
+TNG/2,William Riker,Star Trek: The Next Generation
+TNG/3,Geordi La Forge,Star Trek: The Next Generation
+TNG/4,Tasha Yar,Star Trek: The Next Generation
+TNG/5,Worf,Star Trek: The Next Generation
+TNG/6,Beverly Crusher,Star Trek: The Next Generation
+TNG/7,Deanna Troi,Star Trek: The Next Generation
+TNG/8,Wesley Crusher,Star Trek: The Next Generation
+TNG/9,Data,Star Trek: The Next Generation
+TNG/10,Guinan,Star Trek: The Next Generation
+AT/1,Eren Jaeger,Attack on Titan
+AT/2,Armin Arlert,Attack on Titan
+AT/3,Mikasa Ackermann,Attack on Titan
+AT/4,Jean Kirschtein,Attack on Titan
+AT/5,Connie Springer,Attack on Titan
+AT/6,Hange Zoe,Attack on Titan
+AT/7,Levi Ackermann,Attack on Titan
+AT/8,Sasha Braus,Attack on Titan
+AT/9,Erwin Smith,Attack on Titan
+AT/10,Reiner Braun,Attack on Titan
+S8/1,Sun Bak,Sense8
+S8/2,Nomi Marks,Sense8
+S8/3,Kala Dandekar,Sense8
+S8/4,Riley Blue,Sense8
+S8/5,Wolfgang Bogdanow,Sense8
+S8/6,Lito Rodriguez,Sense8
+S8/7,Will Gorski,Sense8
+S8/8,Angelica Turing,Sense8
+S8/9,Amanita Caplan,Sense8
+S8/10,Hernando Fuentes,Sense8

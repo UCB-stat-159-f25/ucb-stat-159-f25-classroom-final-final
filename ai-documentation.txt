@@ -1,0 +1,85 @@
+Peter:
+
+Input:
+I am using the following code to retrieve the top contributing dimensions to a PCA component and list them in a dataframe. However, I want to retrieve the sign of the loading as well and add that to the name of the dimension (e.g., +dimension1). The dimension names are retrieved by the index.
+
+    for i in range(1,components+1):
+        loads[f"PC{i}"] = pca_loadings.abs().sort_values(f"PC{i}", ascending=False)[0:11].index.to_list()
+
+Output:
+
+You’re already very close. The key is that when you call `.abs()`, you lose the sign information. So the trick is to:
+
+1. Use the absolute values **only for sorting**
+2. Retrieve the **original signed loadings**
+3. Prefix the dimension name with `+` or `-` based on the sign
+
+Here’s a clean and explicit way to do it.
+
+### Assumptions
+
+* `pca_loadings` is a DataFrame
+* Rows = dimensions (features)
+* Columns = `PC1`, `PC2`, …
+
+### Solution
+
+```python
+loads = {}
+
+for i in range(1, components + 1):
+    pc = f"PC{i}"
+    
+    # Get top indices by absolute loading
+    top_idx = (
+        pca_loadings[pc]
+        .abs()
+        .sort_values(ascending=False)
+        .head(11)
+        .index
+    )
+    
+    # Add sign to dimension names
+    signed_dims = [
+        f"{'+' if pca_loadings.loc[idx, pc] >= 0 else '-'}{idx}"
+        for idx in top_idx
+    ]
+    
+    loads[pc] = signed_dims
+```
+
+### Example Output
+
+If your original dimensions are:
+
+```text
+dimension1:  0.42
+dimension2: -0.38
+dimension3:  0.31
+```
+
+You’ll get:
+
+```python
+['+dimension1', '-dimension2', '+dimension3']
+```
+
+### Optional: also keep the actual loading values
+
+If you want a DataFrame with both the signed name **and** the loading:
+
+```python
+loads[pc] = pd.DataFrame({
+    "dimension": signed_dims,
+    "loading": pca_loadings.loc[top_idx, pc].values
+})
+```
+
+If you’d like, I can also show:
+
+* how to return a **single DataFrame** instead of a dict
+* how to format as `+dimension1 (0.42)`
+* how to handle ties or normalize loadings
+
+
+
