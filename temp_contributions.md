@@ -9,3 +9,4 @@ I worked primarily on the `1-intro_exploration.ipynb` notebook, where I used the
 Harish Raghunath:
 
 Sofia Lendahl:
+I worked on consolidating all the analysis notebooks into the `main.ipynb` notebook. I organized this notebook into a research paper format, saved key dataframes from the analysis notebook into the `data` folder, displayed key figures from the `visualizations` folder, summarized key findings, and cleaned up the verbiage. I also created a binder link and attached the badge to the `README.md`, created the MyST site and deployed to GitHub Pages, and rendered all of the analysis notebooks and main notebook each as a separate PDF file using MyST and stored them in the `pdf_builds` folder.
